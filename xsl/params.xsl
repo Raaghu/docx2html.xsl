@@ -25,7 +25,7 @@
 
     <xsl:variable name="settings.page-title"                                as="xs:string"  select="$page-title"/>
     <xsl:variable name="settings.css-class-prefix"                          as="xs:string"  select="$css-class-prefix"/>
-    <xsl:variable name="settings.fabricate-css-classes"                     as="xs:boolean"  select="true() or boolean($fabricate-css-classes)"/>
+    <xsl:variable name="settings.fabricate-css-classes"                     as="xs:boolean"  select="boolean($fabricate-css-classes)"/>
     
     <xsl:variable name="settings.restrict-to-supported-languages"           as="xs:boolean" select="boolean($restrict-to-supported-languages)"/>
     <xsl:variable name="settings.restrict-to-supported-numbering-formats"   as="xs:boolean" select="boolean($restrict-to-supported-numbering-formats)"/>
