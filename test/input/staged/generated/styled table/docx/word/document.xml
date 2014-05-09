@@ -1,0 +1,2541 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<w:document xmlns:ve="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:o="urn:schemas-microsoft-com:office:office"
+    xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships"
+    xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math"
+    xmlns:v="urn:schemas-microsoft-com:vml"
+    xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing"
+    xmlns:w10="urn:schemas-microsoft-com:office:word"
+    xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main"
+    xmlns:wne="http://schemas.microsoft.com/office/word/2006/wordml">
+    <w:body>
+        <w:tbl>
+            <w:tblPr>
+                <w:tblStyle w:val="B2ColorfulListAccent1"/>
+                <w:tblW w:w="9288" w:type="dxa"/>
+                <w:tblLayout w:type="fixed"/>
+                <w:tblLook w:val="0400"/>
+            </w:tblPr>
+            <w:tblGrid>
+                <w:gridCol w:w="975"/>
+                <w:gridCol w:w="4893"/>
+                <w:gridCol w:w="926"/>
+                <w:gridCol w:w="2494"/>
+            </w:tblGrid>
+            <w:tr w:rsidR="00B12A95" w:rsidRPr="00916161" w:rsidTr="00095599">
+                <w:trPr>
+                    <w:cnfStyle w:val="000000100000"/>
+                    <w:trHeight w:val="387"/>
+                </w:trPr>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="6794" w:type="dxa"/>
+                        <w:gridSpan w:val="3"/>
+                        <w:noWrap/>
+                        <w:vAlign w:val="center"/>
+                    </w:tcPr>
+                    <w:p w:rsidR="00563AE0" w:rsidRDefault="00CE4EDD">
+                        <w:pPr>
+                            <w:pStyle w:val="Heading7"/>
+                            <w:tabs>
+                                <w:tab w:val="right" w:leader="dot" w:pos="7200"/>
+                            </w:tabs>
+                            <w:spacing w:before="0" w:after="0"/>
+                            <w:outlineLvl w:val="6"/>
+                            <w:rPr>
+                                <w:rFonts w:eastAsiaTheme="minorEastAsia" w:cstheme="minorBidi"/>
+                                <w:b/>
+                                <w:sz w:val="16"/>
+                                <w:szCs w:val="16"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:eastAsiaTheme="minorEastAsia" w:cstheme="minorBidi"/>
+                                <w:b/>
+                                <w:sz w:val="16"/>
+                                <w:szCs w:val="16"/>
+                            </w:rPr>
+                            <w:t>Word</w:t>
+                        </w:r>
+                        <w:r w:rsidR="00B12A95" w:rsidRPr="00095599">
+                            <w:rPr>
+                                <w:rFonts w:eastAsiaTheme="minorEastAsia" w:cstheme="minorBidi"/>
+                                <w:b/>
+                                <w:sz w:val="16"/>
+                                <w:szCs w:val="16"/>
+                            </w:rPr>
+                            <w:t xml:space="preserve"> 2007 Supported File Formats</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="2494" w:type="dxa"/>
+                    </w:tcPr>
+                    <w:p w:rsidR="00563AE0" w:rsidRDefault="00563AE0">
+                        <w:pPr>
+                            <w:pStyle w:val="Heading7"/>
+                            <w:tabs>
+                                <w:tab w:val="right" w:leader="dot" w:pos="7200"/>
+                            </w:tabs>
+                            <w:outlineLvl w:val="6"/>
+                            <w:rPr>
+                                <w:rFonts w:eastAsiaTheme="minorEastAsia" w:cstheme="minorBidi"/>
+                                <w:sz w:val="16"/>
+                                <w:szCs w:val="16"/>
+                            </w:rPr>
+                        </w:pPr>
+                    </w:p>
+                </w:tc>
+            </w:tr>
+            <w:tr w:rsidR="00B12A95" w:rsidRPr="00A42BD6" w:rsidTr="00916161">
+                <w:trPr>
+                    <w:trHeight w:val="288"/>
+                </w:trPr>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="975" w:type="dxa"/>
+                        <w:noWrap/>
+                    </w:tcPr>
+                    <w:p w:rsidR="00563AE0" w:rsidRDefault="00B12A95">
+                        <w:pPr>
+                            <w:tabs>
+                                <w:tab w:val="right" w:leader="dot" w:pos="7200"/>
+                            </w:tabs>
+                            <w:spacing w:before="100" w:beforeAutospacing="1" w:after="100"
+                                w:afterAutospacing="1"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:eastAsiaTheme="majorEastAsia"
+                                    w:hAnsi="Calibri" w:cs="Arial"/>
+                                <w:color w:val="BA1419"/>
+                                <w:sz w:val="16"/>
+                                <w:szCs w:val="16"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r w:rsidRPr="00095599">
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:eastAsiaTheme="majorEastAsia"
+                                    w:hAnsi="Calibri" w:cs="Arial"/>
+                                <w:color w:val="BA1419"/>
+                                <w:sz w:val="16"/>
+                                <w:szCs w:val="16"/>
+                            </w:rPr>
+                            <w:t>.docx</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="4893" w:type="dxa"/>
+                        <w:noWrap/>
+                    </w:tcPr>
+                    <w:p w:rsidR="00563AE0" w:rsidRDefault="00CE4EDD">
+                        <w:pPr>
+                            <w:tabs>
+                                <w:tab w:val="right" w:leader="dot" w:pos="7200"/>
+                            </w:tabs>
+                            <w:spacing w:before="100" w:beforeAutospacing="1" w:after="100"
+                                w:afterAutospacing="1"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:eastAsiaTheme="majorEastAsia"
+                                    w:hAnsi="Calibri" w:cs="Arial"/>
+                                <w:color w:val="BA1419"/>
+                                <w:sz w:val="16"/>
+                                <w:szCs w:val="16"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:eastAsiaTheme="majorEastAsia"
+                                    w:hAnsi="Calibri" w:cs="Arial"/>
+                                <w:color w:val="BA1419"/>
+                                <w:sz w:val="16"/>
+                                <w:szCs w:val="16"/>
+                            </w:rPr>
+                            <w:t>Word</w:t>
+                        </w:r>
+                        <w:r w:rsidR="00B12A95" w:rsidRPr="00095599">
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:eastAsiaTheme="majorEastAsia"
+                                    w:hAnsi="Calibri" w:cs="Arial"/>
+                                <w:color w:val="BA1419"/>
+                                <w:sz w:val="16"/>
+                                <w:szCs w:val="16"/>
+                            </w:rPr>
+                            <w:t xml:space="preserve"> Document (.docx)</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="926" w:type="dxa"/>
+                    </w:tcPr>
+                    <w:p w:rsidR="00563AE0" w:rsidRDefault="00B12A95">
+                        <w:pPr>
+                            <w:tabs>
+                                <w:tab w:val="right" w:leader="dot" w:pos="7200"/>
+                            </w:tabs>
+                            <w:spacing w:before="100" w:beforeAutospacing="1" w:after="100"
+                                w:afterAutospacing="1"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:eastAsiaTheme="majorEastAsia"
+                                    w:hAnsi="Calibri" w:cs="Arial"/>
+                                <w:color w:val="BA1419"/>
+                                <w:sz w:val="16"/>
+                                <w:szCs w:val="16"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r w:rsidRPr="00095599">
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:eastAsiaTheme="majorEastAsia"
+                                    w:hAnsi="Calibri" w:cs="Arial"/>
+                                <w:color w:val="BA1419"/>
+                                <w:sz w:val="16"/>
+                                <w:szCs w:val="16"/>
+                            </w:rPr>
+                            <w:t xml:space="preserve">New </w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="2494" w:type="dxa"/>
+                    </w:tcPr>
+                    <w:p w:rsidR="00563AE0" w:rsidRDefault="00B12A95">
+                        <w:pPr>
+                            <w:tabs>
+                                <w:tab w:val="right" w:leader="dot" w:pos="7200"/>
+                            </w:tabs>
+                            <w:spacing w:before="100" w:beforeAutospacing="1" w:after="100"
+                                w:afterAutospacing="1"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:eastAsiaTheme="majorEastAsia"
+                                    w:hAnsi="Calibri" w:cs="Arial"/>
+                                <w:color w:val="BA1419"/>
+                                <w:sz w:val="16"/>
+                                <w:szCs w:val="16"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r w:rsidRPr="00095599">
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:eastAsiaTheme="majorEastAsia"
+                                    w:hAnsi="Calibri" w:cs="Arial"/>
+                                <w:color w:val="BA1419"/>
+                                <w:sz w:val="16"/>
+                                <w:szCs w:val="16"/>
+                            </w:rPr>
+                            <w:t>Compatible with 2000, XP, 2003</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+            </w:tr>
+            <w:tr w:rsidR="00B12A95" w:rsidRPr="00A42BD6" w:rsidTr="00916161">
+                <w:trPr>
+                    <w:cnfStyle w:val="000000100000"/>
+                    <w:trHeight w:val="288"/>
+                </w:trPr>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="975" w:type="dxa"/>
+                        <w:noWrap/>
+                    </w:tcPr>
+                    <w:p w:rsidR="00563AE0" w:rsidRDefault="00B12A95">
+                        <w:pPr>
+                            <w:tabs>
+                                <w:tab w:val="right" w:leader="dot" w:pos="7200"/>
+                            </w:tabs>
+                            <w:spacing w:before="100" w:beforeAutospacing="1" w:after="100"
+                                w:afterAutospacing="1"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:eastAsiaTheme="majorEastAsia"
+                                    w:hAnsi="Calibri" w:cs="Arial"/>
+                                <w:sz w:val="16"/>
+                                <w:szCs w:val="16"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r w:rsidRPr="00095599">
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:eastAsiaTheme="majorEastAsia"
+                                    w:hAnsi="Calibri" w:cs="Arial"/>
+                                <w:sz w:val="16"/>
+                                <w:szCs w:val="16"/>
+                            </w:rPr>
+                            <w:t>.docm</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="4893" w:type="dxa"/>
+                        <w:noWrap/>
+                    </w:tcPr>
+                    <w:p w:rsidR="00563AE0" w:rsidRDefault="00CE4EDD">
+                        <w:pPr>
+                            <w:tabs>
+                                <w:tab w:val="right" w:leader="dot" w:pos="7200"/>
+                            </w:tabs>
+                            <w:spacing w:before="100" w:beforeAutospacing="1" w:after="100"
+                                w:afterAutospacing="1"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:eastAsiaTheme="majorEastAsia"
+                                    w:hAnsi="Calibri" w:cs="Arial"/>
+                                <w:sz w:val="16"/>
+                                <w:szCs w:val="16"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:eastAsiaTheme="majorEastAsia"
+                                    w:hAnsi="Calibri" w:cs="Arial"/>
+                                <w:sz w:val="16"/>
+                                <w:szCs w:val="16"/>
+                            </w:rPr>
+                            <w:t>Word</w:t>
+                        </w:r>
+                        <w:r w:rsidR="00B12A95" w:rsidRPr="00095599">
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:eastAsiaTheme="majorEastAsia"
+                                    w:hAnsi="Calibri" w:cs="Arial"/>
+                                <w:sz w:val="16"/>
+                                <w:szCs w:val="16"/>
+                            </w:rPr>
+                            <w:t xml:space="preserve"> Macro-enabled Document (.docm)</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="926" w:type="dxa"/>
+                    </w:tcPr>
+                    <w:p w:rsidR="00563AE0" w:rsidRDefault="00B12A95">
+                        <w:pPr>
+                            <w:tabs>
+                                <w:tab w:val="right" w:leader="dot" w:pos="7200"/>
+                            </w:tabs>
+                            <w:spacing w:before="100" w:beforeAutospacing="1" w:after="100"
+                                w:afterAutospacing="1"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:eastAsiaTheme="majorEastAsia"
+                                    w:hAnsi="Calibri" w:cs="Arial"/>
+                                <w:sz w:val="16"/>
+                                <w:szCs w:val="16"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r w:rsidRPr="00095599">
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:eastAsiaTheme="majorEastAsia"
+                                    w:hAnsi="Calibri" w:cs="Arial"/>
+                                <w:sz w:val="16"/>
+                                <w:szCs w:val="16"/>
+                            </w:rPr>
+                            <w:t xml:space="preserve">New </w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="2494" w:type="dxa"/>
+                    </w:tcPr>
+                    <w:p w:rsidR="00563AE0" w:rsidRDefault="00B12A95">
+                        <w:pPr>
+                            <w:tabs>
+                                <w:tab w:val="right" w:leader="dot" w:pos="7200"/>
+                            </w:tabs>
+                            <w:spacing w:before="100" w:beforeAutospacing="1" w:after="100"
+                                w:afterAutospacing="1"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:eastAsiaTheme="majorEastAsia"
+                                    w:hAnsi="Calibri" w:cs="Arial"/>
+                                <w:color w:val="000000" w:themeColor="text1"/>
+                                <w:sz w:val="16"/>
+                                <w:szCs w:val="16"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r w:rsidRPr="00095599">
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:eastAsiaTheme="majorEastAsia"
+                                    w:hAnsi="Calibri" w:cs="Arial"/>
+                                <w:color w:val="000000" w:themeColor="text1"/>
+                                <w:sz w:val="16"/>
+                                <w:szCs w:val="16"/>
+                            </w:rPr>
+                            <w:t>Compatible with 2000, XP, 2003</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+            </w:tr>
+            <w:tr w:rsidR="00B12A95" w:rsidRPr="00A42BD6" w:rsidTr="00916161">
+                <w:trPr>
+                    <w:trHeight w:val="288"/>
+                </w:trPr>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="975" w:type="dxa"/>
+                        <w:noWrap/>
+                    </w:tcPr>
+                    <w:p w:rsidR="00563AE0" w:rsidRDefault="00B12A95">
+                        <w:pPr>
+                            <w:tabs>
+                                <w:tab w:val="right" w:leader="dot" w:pos="7200"/>
+                            </w:tabs>
+                            <w:spacing w:before="100" w:beforeAutospacing="1" w:after="100"
+                                w:afterAutospacing="1"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:eastAsiaTheme="majorEastAsia"
+                                    w:hAnsi="Calibri" w:cs="Arial"/>
+                                <w:sz w:val="16"/>
+                                <w:szCs w:val="16"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r w:rsidRPr="00095599">
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:eastAsiaTheme="majorEastAsia"
+                                    w:hAnsi="Calibri" w:cs="Arial"/>
+                                <w:sz w:val="16"/>
+                                <w:szCs w:val="16"/>
+                            </w:rPr>
+                            <w:t>.dotx</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="4893" w:type="dxa"/>
+                        <w:noWrap/>
+                    </w:tcPr>
+                    <w:p w:rsidR="00563AE0" w:rsidRDefault="00CE4EDD">
+                        <w:pPr>
+                            <w:tabs>
+                                <w:tab w:val="right" w:leader="dot" w:pos="7200"/>
+                            </w:tabs>
+                            <w:spacing w:before="100" w:beforeAutospacing="1" w:after="100"
+                                w:afterAutospacing="1"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:eastAsiaTheme="majorEastAsia"
+                                    w:hAnsi="Calibri" w:cs="Arial"/>
+                                <w:sz w:val="16"/>
+                                <w:szCs w:val="16"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:eastAsiaTheme="majorEastAsia"
+                                    w:hAnsi="Calibri" w:cs="Arial"/>
+                                <w:sz w:val="16"/>
+                                <w:szCs w:val="16"/>
+                            </w:rPr>
+                            <w:t>Word</w:t>
+                        </w:r>
+                        <w:r w:rsidR="00B12A95" w:rsidRPr="00095599">
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:eastAsiaTheme="majorEastAsia"
+                                    w:hAnsi="Calibri" w:cs="Arial"/>
+                                <w:sz w:val="16"/>
+                                <w:szCs w:val="16"/>
+                            </w:rPr>
+                            <w:t xml:space="preserve"> Template (.dotx)</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="926" w:type="dxa"/>
+                    </w:tcPr>
+                    <w:p w:rsidR="00563AE0" w:rsidRDefault="00B12A95">
+                        <w:pPr>
+                            <w:tabs>
+                                <w:tab w:val="right" w:leader="dot" w:pos="7200"/>
+                            </w:tabs>
+                            <w:spacing w:before="100" w:beforeAutospacing="1" w:after="100"
+                                w:afterAutospacing="1"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:eastAsiaTheme="majorEastAsia"
+                                    w:hAnsi="Calibri" w:cs="Arial"/>
+                                <w:sz w:val="16"/>
+                                <w:szCs w:val="16"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r w:rsidRPr="00095599">
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:eastAsiaTheme="majorEastAsia"
+                                    w:hAnsi="Calibri" w:cs="Arial"/>
+                                <w:color w:val="000000" w:themeColor="text1"/>
+                                <w:sz w:val="16"/>
+                                <w:szCs w:val="16"/>
+                            </w:rPr>
+                            <w:t>New</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="2494" w:type="dxa"/>
+                    </w:tcPr>
+                    <w:p w:rsidR="00563AE0" w:rsidRDefault="00563AE0">
+                        <w:pPr>
+                            <w:tabs>
+                                <w:tab w:val="right" w:leader="dot" w:pos="7200"/>
+                            </w:tabs>
+                            <w:spacing w:before="100" w:beforeAutospacing="1" w:after="100"
+                                w:afterAutospacing="1"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:eastAsiaTheme="majorEastAsia"
+                                    w:hAnsi="Calibri" w:cs="Arial"/>
+                                <w:color w:val="000000" w:themeColor="text1"/>
+                                <w:sz w:val="16"/>
+                                <w:szCs w:val="16"/>
+                            </w:rPr>
+                        </w:pPr>
+                    </w:p>
+                </w:tc>
+            </w:tr>
+            <w:tr w:rsidR="00B12A95" w:rsidRPr="00A42BD6" w:rsidTr="00916161">
+                <w:trPr>
+                    <w:cnfStyle w:val="000000100000"/>
+                    <w:trHeight w:val="288"/>
+                </w:trPr>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="975" w:type="dxa"/>
+                        <w:noWrap/>
+                    </w:tcPr>
+                    <w:p w:rsidR="00563AE0" w:rsidRDefault="00B12A95">
+                        <w:pPr>
+                            <w:tabs>
+                                <w:tab w:val="right" w:leader="dot" w:pos="7200"/>
+                            </w:tabs>
+                            <w:spacing w:before="100" w:beforeAutospacing="1" w:after="100"
+                                w:afterAutospacing="1"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:eastAsiaTheme="majorEastAsia"
+                                    w:hAnsi="Calibri" w:cs="Arial"/>
+                                <w:sz w:val="16"/>
+                                <w:szCs w:val="16"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r w:rsidRPr="00095599">
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:eastAsiaTheme="majorEastAsia"
+                                    w:hAnsi="Calibri" w:cs="Arial"/>
+                                <w:sz w:val="16"/>
+                                <w:szCs w:val="16"/>
+                            </w:rPr>
+                            <w:t>.dotm</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="4893" w:type="dxa"/>
+                        <w:noWrap/>
+                    </w:tcPr>
+                    <w:p w:rsidR="00563AE0" w:rsidRDefault="00CE4EDD">
+                        <w:pPr>
+                            <w:tabs>
+                                <w:tab w:val="right" w:leader="dot" w:pos="7200"/>
+                            </w:tabs>
+                            <w:spacing w:before="100" w:beforeAutospacing="1" w:after="100"
+                                w:afterAutospacing="1"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:eastAsiaTheme="majorEastAsia"
+                                    w:hAnsi="Calibri" w:cs="Arial"/>
+                                <w:sz w:val="16"/>
+                                <w:szCs w:val="16"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:eastAsiaTheme="majorEastAsia"
+                                    w:hAnsi="Calibri" w:cs="Arial"/>
+                                <w:sz w:val="16"/>
+                                <w:szCs w:val="16"/>
+                            </w:rPr>
+                            <w:t>Word</w:t>
+                        </w:r>
+                        <w:r w:rsidR="00B12A95" w:rsidRPr="00095599">
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:eastAsiaTheme="majorEastAsia"
+                                    w:hAnsi="Calibri" w:cs="Arial"/>
+                                <w:sz w:val="16"/>
+                                <w:szCs w:val="16"/>
+                            </w:rPr>
+                            <w:t xml:space="preserve"> Macro-enabled Document Template (.dotm)</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="926" w:type="dxa"/>
+                    </w:tcPr>
+                    <w:p w:rsidR="00563AE0" w:rsidRDefault="00B12A95">
+                        <w:pPr>
+                            <w:tabs>
+                                <w:tab w:val="right" w:leader="dot" w:pos="7200"/>
+                            </w:tabs>
+                            <w:spacing w:before="100" w:beforeAutospacing="1" w:after="100"
+                                w:afterAutospacing="1"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:eastAsiaTheme="majorEastAsia"
+                                    w:hAnsi="Calibri" w:cs="Arial"/>
+                                <w:sz w:val="16"/>
+                                <w:szCs w:val="16"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r w:rsidRPr="00095599">
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:eastAsiaTheme="majorEastAsia"
+                                    w:hAnsi="Calibri" w:cs="Arial"/>
+                                <w:color w:val="000000" w:themeColor="text1"/>
+                                <w:sz w:val="16"/>
+                                <w:szCs w:val="16"/>
+                            </w:rPr>
+                            <w:t>New</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="2494" w:type="dxa"/>
+                    </w:tcPr>
+                    <w:p w:rsidR="00563AE0" w:rsidRDefault="00563AE0">
+                        <w:pPr>
+                            <w:tabs>
+                                <w:tab w:val="right" w:leader="dot" w:pos="7200"/>
+                            </w:tabs>
+                            <w:spacing w:before="100" w:beforeAutospacing="1" w:after="100"
+                                w:afterAutospacing="1"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:eastAsiaTheme="majorEastAsia"
+                                    w:hAnsi="Calibri" w:cs="Arial"/>
+                                <w:color w:val="000000" w:themeColor="text1"/>
+                                <w:sz w:val="16"/>
+                                <w:szCs w:val="16"/>
+                            </w:rPr>
+                        </w:pPr>
+                    </w:p>
+                </w:tc>
+            </w:tr>
+            <w:tr w:rsidR="00B12A95" w:rsidRPr="00A42BD6" w:rsidTr="00095599">
+                <w:trPr>
+                    <w:trHeight w:val="468"/>
+                </w:trPr>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="6794" w:type="dxa"/>
+                        <w:gridSpan w:val="3"/>
+                        <w:noWrap/>
+                        <w:vAlign w:val="center"/>
+                    </w:tcPr>
+                    <w:p w:rsidR="00563AE0" w:rsidRDefault="00CE4EDD">
+                        <w:pPr>
+                            <w:tabs>
+                                <w:tab w:val="right" w:leader="dot" w:pos="7200"/>
+                            </w:tabs>
+                            <w:spacing w:before="100" w:beforeAutospacing="1" w:after="100"
+                                w:afterAutospacing="1"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:eastAsiaTheme="majorEastAsia"
+                                    w:hAnsi="Calibri" w:cs="Arial"/>
+                                <w:b/>
+                                <w:bCs/>
+                                <w:sz w:val="16"/>
+                                <w:szCs w:val="16"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:eastAsiaTheme="majorEastAsia"
+                                    w:hAnsi="Calibri" w:cs="Arial"/>
+                                <w:b/>
+                                <w:bCs/>
+                                <w:sz w:val="16"/>
+                                <w:szCs w:val="16"/>
+                            </w:rPr>
+                            <w:t>Excel</w:t>
+                        </w:r>
+                        <w:r w:rsidR="00B12A95" w:rsidRPr="00095599">
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:eastAsiaTheme="majorEastAsia"
+                                    w:hAnsi="Calibri" w:cs="Arial"/>
+                                <w:b/>
+                                <w:bCs/>
+                                <w:sz w:val="16"/>
+                                <w:szCs w:val="16"/>
+                            </w:rPr>
+                            <w:t xml:space="preserve"> 2007 Supported File Formats</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="2494" w:type="dxa"/>
+                    </w:tcPr>
+                    <w:p w:rsidR="00563AE0" w:rsidRDefault="00563AE0">
+                        <w:pPr>
+                            <w:tabs>
+                                <w:tab w:val="right" w:leader="dot" w:pos="7200"/>
+                            </w:tabs>
+                            <w:spacing w:before="100" w:beforeAutospacing="1" w:after="100"
+                                w:afterAutospacing="1"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:eastAsiaTheme="majorEastAsia"
+                                    w:hAnsi="Calibri" w:cs="Arial"/>
+                                <w:bCs/>
+                                <w:sz w:val="16"/>
+                                <w:szCs w:val="16"/>
+                            </w:rPr>
+                        </w:pPr>
+                    </w:p>
+                </w:tc>
+            </w:tr>
+            <w:tr w:rsidR="00B12A95" w:rsidRPr="00A42BD6" w:rsidTr="00916161">
+                <w:trPr>
+                    <w:cnfStyle w:val="000000100000"/>
+                    <w:trHeight w:val="288"/>
+                </w:trPr>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="975" w:type="dxa"/>
+                        <w:noWrap/>
+                    </w:tcPr>
+                    <w:p w:rsidR="00563AE0" w:rsidRDefault="00B12A95">
+                        <w:pPr>
+                            <w:tabs>
+                                <w:tab w:val="right" w:leader="dot" w:pos="7200"/>
+                            </w:tabs>
+                            <w:spacing w:before="100" w:beforeAutospacing="1" w:after="100"
+                                w:afterAutospacing="1"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:eastAsiaTheme="majorEastAsia"
+                                    w:hAnsi="Calibri" w:cs="Arial"/>
+                                <w:color w:val="BA1419"/>
+                                <w:sz w:val="16"/>
+                                <w:szCs w:val="16"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r w:rsidRPr="00095599">
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:eastAsiaTheme="majorEastAsia"
+                                    w:hAnsi="Calibri" w:cs="Arial"/>
+                                <w:color w:val="BA1419"/>
+                                <w:sz w:val="16"/>
+                                <w:szCs w:val="16"/>
+                            </w:rPr>
+                            <w:t>.xlsx</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="4893" w:type="dxa"/>
+                        <w:noWrap/>
+                    </w:tcPr>
+                    <w:p w:rsidR="00563AE0" w:rsidRDefault="00CE4EDD">
+                        <w:pPr>
+                            <w:tabs>
+                                <w:tab w:val="right" w:leader="dot" w:pos="7200"/>
+                            </w:tabs>
+                            <w:spacing w:before="100" w:beforeAutospacing="1" w:after="100"
+                                w:afterAutospacing="1"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:eastAsiaTheme="majorEastAsia"
+                                    w:hAnsi="Calibri" w:cs="Arial"/>
+                                <w:color w:val="BA1419"/>
+                                <w:sz w:val="16"/>
+                                <w:szCs w:val="16"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:eastAsiaTheme="majorEastAsia"
+                                    w:hAnsi="Calibri" w:cs="Arial"/>
+                                <w:color w:val="BA1419"/>
+                                <w:sz w:val="16"/>
+                                <w:szCs w:val="16"/>
+                            </w:rPr>
+                            <w:t>Excel</w:t>
+                        </w:r>
+                        <w:r w:rsidR="00B12A95" w:rsidRPr="00095599">
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:eastAsiaTheme="majorEastAsia"
+                                    w:hAnsi="Calibri" w:cs="Arial"/>
+                                <w:color w:val="BA1419"/>
+                                <w:sz w:val="16"/>
+                                <w:szCs w:val="16"/>
+                            </w:rPr>
+                            <w:t xml:space="preserve"> Workbook (.xlsx)</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="926" w:type="dxa"/>
+                    </w:tcPr>
+                    <w:p w:rsidR="00563AE0" w:rsidRDefault="00B12A95">
+                        <w:pPr>
+                            <w:tabs>
+                                <w:tab w:val="right" w:leader="dot" w:pos="7200"/>
+                            </w:tabs>
+                            <w:spacing w:before="100" w:beforeAutospacing="1" w:after="100"
+                                w:afterAutospacing="1"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:eastAsiaTheme="majorEastAsia"
+                                    w:hAnsi="Calibri" w:cs="Arial"/>
+                                <w:color w:val="BA1419"/>
+                                <w:sz w:val="16"/>
+                                <w:szCs w:val="16"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r w:rsidRPr="00095599">
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:eastAsiaTheme="majorEastAsia"
+                                    w:hAnsi="Calibri" w:cs="Arial"/>
+                                <w:color w:val="BA1419"/>
+                                <w:sz w:val="16"/>
+                                <w:szCs w:val="16"/>
+                            </w:rPr>
+                            <w:t xml:space="preserve">New </w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="2494" w:type="dxa"/>
+                    </w:tcPr>
+                    <w:p w:rsidR="00563AE0" w:rsidRDefault="00B12A95">
+                        <w:pPr>
+                            <w:tabs>
+                                <w:tab w:val="right" w:leader="dot" w:pos="7200"/>
+                            </w:tabs>
+                            <w:spacing w:before="100" w:beforeAutospacing="1" w:after="100"
+                                w:afterAutospacing="1"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:eastAsiaTheme="majorEastAsia"
+                                    w:hAnsi="Calibri" w:cs="Arial"/>
+                                <w:color w:val="BA1419"/>
+                                <w:sz w:val="16"/>
+                                <w:szCs w:val="16"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r w:rsidRPr="00095599">
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:eastAsiaTheme="majorEastAsia"
+                                    w:hAnsi="Calibri" w:cs="Arial"/>
+                                <w:color w:val="BA1419"/>
+                                <w:sz w:val="16"/>
+                                <w:szCs w:val="16"/>
+                            </w:rPr>
+                            <w:t>Compatible with 2000, XP, 2003</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+            </w:tr>
+            <w:tr w:rsidR="00B12A95" w:rsidRPr="00A42BD6" w:rsidTr="00916161">
+                <w:trPr>
+                    <w:trHeight w:val="288"/>
+                </w:trPr>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="975" w:type="dxa"/>
+                        <w:noWrap/>
+                    </w:tcPr>
+                    <w:p w:rsidR="00563AE0" w:rsidRDefault="00B12A95">
+                        <w:pPr>
+                            <w:tabs>
+                                <w:tab w:val="right" w:leader="dot" w:pos="7200"/>
+                            </w:tabs>
+                            <w:spacing w:before="100" w:beforeAutospacing="1" w:after="100"
+                                w:afterAutospacing="1"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:eastAsiaTheme="majorEastAsia"
+                                    w:hAnsi="Calibri" w:cs="Arial"/>
+                                <w:sz w:val="16"/>
+                                <w:szCs w:val="16"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r w:rsidRPr="00095599">
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:eastAsiaTheme="majorEastAsia"
+                                    w:hAnsi="Calibri" w:cs="Arial"/>
+                                <w:sz w:val="16"/>
+                                <w:szCs w:val="16"/>
+                            </w:rPr>
+                            <w:t>.xlsm</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="4893" w:type="dxa"/>
+                        <w:noWrap/>
+                    </w:tcPr>
+                    <w:p w:rsidR="00563AE0" w:rsidRDefault="00CE4EDD">
+                        <w:pPr>
+                            <w:tabs>
+                                <w:tab w:val="right" w:leader="dot" w:pos="7200"/>
+                            </w:tabs>
+                            <w:spacing w:before="100" w:beforeAutospacing="1" w:after="100"
+                                w:afterAutospacing="1"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:eastAsiaTheme="majorEastAsia"
+                                    w:hAnsi="Calibri" w:cs="Arial"/>
+                                <w:sz w:val="16"/>
+                                <w:szCs w:val="16"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:eastAsiaTheme="majorEastAsia"
+                                    w:hAnsi="Calibri" w:cs="Arial"/>
+                                <w:sz w:val="16"/>
+                                <w:szCs w:val="16"/>
+                            </w:rPr>
+                            <w:t>Excel</w:t>
+                        </w:r>
+                        <w:r w:rsidR="00B12A95" w:rsidRPr="00095599">
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:eastAsiaTheme="majorEastAsia"
+                                    w:hAnsi="Calibri" w:cs="Arial"/>
+                                <w:sz w:val="16"/>
+                                <w:szCs w:val="16"/>
+                            </w:rPr>
+                            <w:t xml:space="preserve"> Macro-enabled Workbook (.xlsm)</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="926" w:type="dxa"/>
+                    </w:tcPr>
+                    <w:p w:rsidR="00563AE0" w:rsidRDefault="00B12A95">
+                        <w:pPr>
+                            <w:tabs>
+                                <w:tab w:val="right" w:leader="dot" w:pos="7200"/>
+                            </w:tabs>
+                            <w:spacing w:before="100" w:beforeAutospacing="1" w:after="100"
+                                w:afterAutospacing="1"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:eastAsiaTheme="majorEastAsia"
+                                    w:hAnsi="Calibri" w:cs="Arial"/>
+                                <w:sz w:val="16"/>
+                                <w:szCs w:val="16"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r w:rsidRPr="00095599">
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:eastAsiaTheme="majorEastAsia"
+                                    w:hAnsi="Calibri" w:cs="Arial"/>
+                                <w:sz w:val="16"/>
+                                <w:szCs w:val="16"/>
+                            </w:rPr>
+                            <w:t xml:space="preserve">New </w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="2494" w:type="dxa"/>
+                    </w:tcPr>
+                    <w:p w:rsidR="00563AE0" w:rsidRDefault="00B12A95">
+                        <w:pPr>
+                            <w:tabs>
+                                <w:tab w:val="right" w:leader="dot" w:pos="7200"/>
+                            </w:tabs>
+                            <w:spacing w:before="100" w:beforeAutospacing="1" w:after="100"
+                                w:afterAutospacing="1"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:eastAsiaTheme="majorEastAsia"
+                                    w:hAnsi="Calibri" w:cs="Arial"/>
+                                <w:color w:val="000000" w:themeColor="text1"/>
+                                <w:sz w:val="16"/>
+                                <w:szCs w:val="16"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r w:rsidRPr="00095599">
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:eastAsiaTheme="majorEastAsia"
+                                    w:hAnsi="Calibri" w:cs="Arial"/>
+                                <w:color w:val="000000" w:themeColor="text1"/>
+                                <w:sz w:val="16"/>
+                                <w:szCs w:val="16"/>
+                            </w:rPr>
+                            <w:t>Compatible with 2000, XP, 2003</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+            </w:tr>
+            <w:tr w:rsidR="00B12A95" w:rsidRPr="00A42BD6" w:rsidTr="00916161">
+                <w:trPr>
+                    <w:cnfStyle w:val="000000100000"/>
+                    <w:trHeight w:val="288"/>
+                </w:trPr>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="975" w:type="dxa"/>
+                        <w:noWrap/>
+                    </w:tcPr>
+                    <w:p w:rsidR="00563AE0" w:rsidRDefault="00B12A95">
+                        <w:pPr>
+                            <w:tabs>
+                                <w:tab w:val="right" w:leader="dot" w:pos="7200"/>
+                            </w:tabs>
+                            <w:spacing w:before="100" w:beforeAutospacing="1" w:after="100"
+                                w:afterAutospacing="1"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:eastAsiaTheme="majorEastAsia"
+                                    w:hAnsi="Calibri" w:cs="Arial"/>
+                                <w:sz w:val="16"/>
+                                <w:szCs w:val="16"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r w:rsidRPr="00095599">
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:eastAsiaTheme="majorEastAsia"
+                                    w:hAnsi="Calibri" w:cs="Arial"/>
+                                <w:sz w:val="16"/>
+                                <w:szCs w:val="16"/>
+                            </w:rPr>
+                            <w:t>.xltx</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="4893" w:type="dxa"/>
+                        <w:noWrap/>
+                    </w:tcPr>
+                    <w:p w:rsidR="00563AE0" w:rsidRDefault="00CE4EDD">
+                        <w:pPr>
+                            <w:tabs>
+                                <w:tab w:val="right" w:leader="dot" w:pos="7200"/>
+                            </w:tabs>
+                            <w:spacing w:before="100" w:beforeAutospacing="1" w:after="100"
+                                w:afterAutospacing="1"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:eastAsiaTheme="majorEastAsia"
+                                    w:hAnsi="Calibri" w:cs="Arial"/>
+                                <w:sz w:val="16"/>
+                                <w:szCs w:val="16"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:eastAsiaTheme="majorEastAsia"
+                                    w:hAnsi="Calibri" w:cs="Arial"/>
+                                <w:sz w:val="16"/>
+                                <w:szCs w:val="16"/>
+                            </w:rPr>
+                            <w:t>Excel</w:t>
+                        </w:r>
+                        <w:r w:rsidR="00B12A95" w:rsidRPr="00095599">
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:eastAsiaTheme="majorEastAsia"
+                                    w:hAnsi="Calibri" w:cs="Arial"/>
+                                <w:sz w:val="16"/>
+                                <w:szCs w:val="16"/>
+                            </w:rPr>
+                            <w:t xml:space="preserve"> Template (.xltx)</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="926" w:type="dxa"/>
+                    </w:tcPr>
+                    <w:p w:rsidR="00563AE0" w:rsidRDefault="00B12A95">
+                        <w:pPr>
+                            <w:tabs>
+                                <w:tab w:val="right" w:leader="dot" w:pos="7200"/>
+                            </w:tabs>
+                            <w:spacing w:before="100" w:beforeAutospacing="1" w:after="100"
+                                w:afterAutospacing="1"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:eastAsiaTheme="majorEastAsia"
+                                    w:hAnsi="Calibri" w:cs="Arial"/>
+                                <w:sz w:val="16"/>
+                                <w:szCs w:val="16"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r w:rsidRPr="00095599">
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:eastAsiaTheme="majorEastAsia"
+                                    w:hAnsi="Calibri" w:cs="Arial"/>
+                                <w:color w:val="000000" w:themeColor="text1"/>
+                                <w:sz w:val="16"/>
+                                <w:szCs w:val="16"/>
+                            </w:rPr>
+                            <w:t>New</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="2494" w:type="dxa"/>
+                    </w:tcPr>
+                    <w:p w:rsidR="00563AE0" w:rsidRDefault="00B12A95">
+                        <w:pPr>
+                            <w:tabs>
+                                <w:tab w:val="right" w:leader="dot" w:pos="7200"/>
+                            </w:tabs>
+                            <w:spacing w:before="100" w:beforeAutospacing="1" w:after="100"
+                                w:afterAutospacing="1"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:eastAsiaTheme="majorEastAsia"
+                                    w:hAnsi="Calibri" w:cs="Arial"/>
+                                <w:color w:val="000000" w:themeColor="text1"/>
+                                <w:sz w:val="16"/>
+                                <w:szCs w:val="16"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r w:rsidRPr="00095599">
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:eastAsiaTheme="majorEastAsia"
+                                    w:hAnsi="Calibri" w:cs="Arial"/>
+                                <w:color w:val="000000" w:themeColor="text1"/>
+                                <w:sz w:val="16"/>
+                                <w:szCs w:val="16"/>
+                            </w:rPr>
+                            <w:t>Compatible with 2000, XP, 2003</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+            </w:tr>
+            <w:tr w:rsidR="00B12A95" w:rsidRPr="00A42BD6" w:rsidTr="00916161">
+                <w:trPr>
+                    <w:trHeight w:val="288"/>
+                </w:trPr>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="975" w:type="dxa"/>
+                        <w:noWrap/>
+                    </w:tcPr>
+                    <w:p w:rsidR="00563AE0" w:rsidRDefault="00B12A95">
+                        <w:pPr>
+                            <w:tabs>
+                                <w:tab w:val="right" w:leader="dot" w:pos="7200"/>
+                            </w:tabs>
+                            <w:spacing w:before="100" w:beforeAutospacing="1" w:after="100"
+                                w:afterAutospacing="1"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:eastAsiaTheme="majorEastAsia"
+                                    w:hAnsi="Calibri" w:cs="Arial"/>
+                                <w:sz w:val="16"/>
+                                <w:szCs w:val="16"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r w:rsidRPr="00095599">
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:eastAsiaTheme="majorEastAsia"
+                                    w:hAnsi="Calibri" w:cs="Arial"/>
+                                <w:sz w:val="16"/>
+                                <w:szCs w:val="16"/>
+                            </w:rPr>
+                            <w:t>.xltm</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="4893" w:type="dxa"/>
+                        <w:noWrap/>
+                    </w:tcPr>
+                    <w:p w:rsidR="00563AE0" w:rsidRDefault="00CE4EDD">
+                        <w:pPr>
+                            <w:tabs>
+                                <w:tab w:val="right" w:leader="dot" w:pos="7200"/>
+                            </w:tabs>
+                            <w:spacing w:before="100" w:beforeAutospacing="1" w:after="100"
+                                w:afterAutospacing="1"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:eastAsiaTheme="majorEastAsia"
+                                    w:hAnsi="Calibri" w:cs="Arial"/>
+                                <w:sz w:val="16"/>
+                                <w:szCs w:val="16"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:eastAsiaTheme="majorEastAsia"
+                                    w:hAnsi="Calibri" w:cs="Arial"/>
+                                <w:sz w:val="16"/>
+                                <w:szCs w:val="16"/>
+                            </w:rPr>
+                            <w:t>Excel</w:t>
+                        </w:r>
+                        <w:r w:rsidR="00B12A95" w:rsidRPr="00095599">
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:eastAsiaTheme="majorEastAsia"
+                                    w:hAnsi="Calibri" w:cs="Arial"/>
+                                <w:sz w:val="16"/>
+                                <w:szCs w:val="16"/>
+                            </w:rPr>
+                            <w:t xml:space="preserve"> Macro-enabled Workbook Template (.xltm)</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="926" w:type="dxa"/>
+                    </w:tcPr>
+                    <w:p w:rsidR="00563AE0" w:rsidRDefault="00B12A95">
+                        <w:pPr>
+                            <w:tabs>
+                                <w:tab w:val="right" w:leader="dot" w:pos="7200"/>
+                            </w:tabs>
+                            <w:spacing w:before="100" w:beforeAutospacing="1" w:after="100"
+                                w:afterAutospacing="1"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:eastAsiaTheme="majorEastAsia"
+                                    w:hAnsi="Calibri" w:cs="Arial"/>
+                                <w:sz w:val="16"/>
+                                <w:szCs w:val="16"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r w:rsidRPr="00095599">
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:eastAsiaTheme="majorEastAsia"
+                                    w:hAnsi="Calibri" w:cs="Arial"/>
+                                <w:color w:val="000000" w:themeColor="text1"/>
+                                <w:sz w:val="16"/>
+                                <w:szCs w:val="16"/>
+                            </w:rPr>
+                            <w:t>New</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="2494" w:type="dxa"/>
+                    </w:tcPr>
+                    <w:p w:rsidR="00563AE0" w:rsidRDefault="00B12A95">
+                        <w:pPr>
+                            <w:tabs>
+                                <w:tab w:val="right" w:leader="dot" w:pos="7200"/>
+                            </w:tabs>
+                            <w:spacing w:before="100" w:beforeAutospacing="1" w:after="100"
+                                w:afterAutospacing="1"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:eastAsiaTheme="majorEastAsia"
+                                    w:hAnsi="Calibri" w:cs="Arial"/>
+                                <w:color w:val="000000" w:themeColor="text1"/>
+                                <w:sz w:val="16"/>
+                                <w:szCs w:val="16"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r w:rsidRPr="00095599">
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:eastAsiaTheme="majorEastAsia"
+                                    w:hAnsi="Calibri" w:cs="Arial"/>
+                                <w:color w:val="000000" w:themeColor="text1"/>
+                                <w:sz w:val="16"/>
+                                <w:szCs w:val="16"/>
+                            </w:rPr>
+                            <w:t>Compatible with 2000, XP, 2003</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+            </w:tr>
+            <w:tr w:rsidR="00B12A95" w:rsidRPr="00A42BD6" w:rsidTr="00916161">
+                <w:trPr>
+                    <w:cnfStyle w:val="000000100000"/>
+                    <w:trHeight w:val="288"/>
+                </w:trPr>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="975" w:type="dxa"/>
+                        <w:noWrap/>
+                    </w:tcPr>
+                    <w:p w:rsidR="00563AE0" w:rsidRDefault="00B12A95">
+                        <w:pPr>
+                            <w:tabs>
+                                <w:tab w:val="right" w:leader="dot" w:pos="7200"/>
+                            </w:tabs>
+                            <w:spacing w:before="100" w:beforeAutospacing="1" w:after="100"
+                                w:afterAutospacing="1"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:eastAsiaTheme="majorEastAsia"
+                                    w:hAnsi="Calibri" w:cs="Arial"/>
+                                <w:sz w:val="16"/>
+                                <w:szCs w:val="16"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r w:rsidRPr="00095599">
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:eastAsiaTheme="majorEastAsia"
+                                    w:hAnsi="Calibri" w:cs="Arial"/>
+                                <w:sz w:val="16"/>
+                                <w:szCs w:val="16"/>
+                            </w:rPr>
+                            <w:t>.xlsb</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="4893" w:type="dxa"/>
+                        <w:noWrap/>
+                    </w:tcPr>
+                    <w:p w:rsidR="00563AE0" w:rsidRDefault="00CE4EDD">
+                        <w:pPr>
+                            <w:tabs>
+                                <w:tab w:val="right" w:leader="dot" w:pos="7200"/>
+                            </w:tabs>
+                            <w:spacing w:before="100" w:beforeAutospacing="1" w:after="100"
+                                w:afterAutospacing="1"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:eastAsiaTheme="majorEastAsia"
+                                    w:hAnsi="Calibri" w:cs="Arial"/>
+                                <w:sz w:val="16"/>
+                                <w:szCs w:val="16"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:eastAsiaTheme="majorEastAsia"
+                                    w:hAnsi="Calibri" w:cs="Arial"/>
+                                <w:sz w:val="16"/>
+                                <w:szCs w:val="16"/>
+                            </w:rPr>
+                            <w:t>Excel</w:t>
+                        </w:r>
+                        <w:r w:rsidR="00B12A95" w:rsidRPr="00095599">
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:eastAsiaTheme="majorEastAsia"
+                                    w:hAnsi="Calibri" w:cs="Arial"/>
+                                <w:sz w:val="16"/>
+                                <w:szCs w:val="16"/>
+                            </w:rPr>
+                            <w:t xml:space="preserve"> Binary Workbook (.xlsb)</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="926" w:type="dxa"/>
+                    </w:tcPr>
+                    <w:p w:rsidR="00563AE0" w:rsidRDefault="00B12A95">
+                        <w:pPr>
+                            <w:tabs>
+                                <w:tab w:val="right" w:leader="dot" w:pos="7200"/>
+                            </w:tabs>
+                            <w:spacing w:before="100" w:beforeAutospacing="1" w:after="100"
+                                w:afterAutospacing="1"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:eastAsiaTheme="majorEastAsia"
+                                    w:hAnsi="Calibri" w:cs="Arial"/>
+                                <w:sz w:val="16"/>
+                                <w:szCs w:val="16"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r w:rsidRPr="00095599">
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:eastAsiaTheme="majorEastAsia"
+                                    w:hAnsi="Calibri" w:cs="Arial"/>
+                                <w:sz w:val="16"/>
+                                <w:szCs w:val="16"/>
+                            </w:rPr>
+                            <w:t xml:space="preserve">New </w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="2494" w:type="dxa"/>
+                    </w:tcPr>
+                    <w:p w:rsidR="00563AE0" w:rsidRDefault="00B12A95">
+                        <w:pPr>
+                            <w:tabs>
+                                <w:tab w:val="right" w:leader="dot" w:pos="7200"/>
+                            </w:tabs>
+                            <w:spacing w:before="100" w:beforeAutospacing="1" w:after="100"
+                                w:afterAutospacing="1"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:eastAsiaTheme="majorEastAsia"
+                                    w:hAnsi="Calibri" w:cs="Arial"/>
+                                <w:color w:val="000000" w:themeColor="text1"/>
+                                <w:sz w:val="16"/>
+                                <w:szCs w:val="16"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r w:rsidRPr="00095599">
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:eastAsiaTheme="majorEastAsia"
+                                    w:hAnsi="Calibri" w:cs="Arial"/>
+                                <w:color w:val="000000" w:themeColor="text1"/>
+                                <w:sz w:val="16"/>
+                                <w:szCs w:val="16"/>
+                            </w:rPr>
+                            <w:t>Compatible with 2000, XP, 2003</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+            </w:tr>
+            <w:tr w:rsidR="00B12A95" w:rsidRPr="00A42BD6" w:rsidTr="00916161">
+                <w:trPr>
+                    <w:trHeight w:val="288"/>
+                </w:trPr>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="975" w:type="dxa"/>
+                        <w:noWrap/>
+                    </w:tcPr>
+                    <w:p w:rsidR="00563AE0" w:rsidRDefault="00B12A95">
+                        <w:pPr>
+                            <w:tabs>
+                                <w:tab w:val="right" w:leader="dot" w:pos="7200"/>
+                            </w:tabs>
+                            <w:spacing w:before="100" w:beforeAutospacing="1" w:after="100"
+                                w:afterAutospacing="1"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:eastAsiaTheme="majorEastAsia"
+                                    w:hAnsi="Calibri" w:cs="Arial"/>
+                                <w:sz w:val="16"/>
+                                <w:szCs w:val="16"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r w:rsidRPr="00095599">
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:eastAsiaTheme="majorEastAsia"
+                                    w:hAnsi="Calibri" w:cs="Arial"/>
+                                <w:sz w:val="16"/>
+                                <w:szCs w:val="16"/>
+                            </w:rPr>
+                            <w:t>.xlam</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="4893" w:type="dxa"/>
+                        <w:noWrap/>
+                    </w:tcPr>
+                    <w:p w:rsidR="00563AE0" w:rsidRDefault="00CE4EDD">
+                        <w:pPr>
+                            <w:tabs>
+                                <w:tab w:val="right" w:leader="dot" w:pos="7200"/>
+                            </w:tabs>
+                            <w:spacing w:before="100" w:beforeAutospacing="1" w:after="100"
+                                w:afterAutospacing="1"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:eastAsiaTheme="majorEastAsia"
+                                    w:hAnsi="Calibri" w:cs="Arial"/>
+                                <w:sz w:val="16"/>
+                                <w:szCs w:val="16"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:eastAsiaTheme="majorEastAsia"
+                                    w:hAnsi="Calibri" w:cs="Arial"/>
+                                <w:sz w:val="16"/>
+                                <w:szCs w:val="16"/>
+                            </w:rPr>
+                            <w:t>Excel</w:t>
+                        </w:r>
+                        <w:r w:rsidR="00B12A95" w:rsidRPr="00095599">
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:eastAsiaTheme="majorEastAsia"
+                                    w:hAnsi="Calibri" w:cs="Arial"/>
+                                <w:sz w:val="16"/>
+                                <w:szCs w:val="16"/>
+                            </w:rPr>
+                            <w:t xml:space="preserve"> Add-in (.xlam)</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="926" w:type="dxa"/>
+                    </w:tcPr>
+                    <w:p w:rsidR="00563AE0" w:rsidRDefault="00B12A95">
+                        <w:pPr>
+                            <w:tabs>
+                                <w:tab w:val="right" w:leader="dot" w:pos="7200"/>
+                            </w:tabs>
+                            <w:spacing w:before="100" w:beforeAutospacing="1" w:after="100"
+                                w:afterAutospacing="1"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:eastAsiaTheme="majorEastAsia"
+                                    w:hAnsi="Calibri" w:cs="Arial"/>
+                                <w:sz w:val="16"/>
+                                <w:szCs w:val="16"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r w:rsidRPr="00095599">
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:eastAsiaTheme="majorEastAsia"
+                                    w:hAnsi="Calibri" w:cs="Arial"/>
+                                <w:sz w:val="16"/>
+                                <w:szCs w:val="16"/>
+                            </w:rPr>
+                            <w:t xml:space="preserve">New </w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="2494" w:type="dxa"/>
+                    </w:tcPr>
+                    <w:p w:rsidR="00563AE0" w:rsidRDefault="00B12A95">
+                        <w:pPr>
+                            <w:tabs>
+                                <w:tab w:val="right" w:leader="dot" w:pos="7200"/>
+                            </w:tabs>
+                            <w:spacing w:before="100" w:beforeAutospacing="1" w:after="100"
+                                w:afterAutospacing="1"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:eastAsiaTheme="majorEastAsia"
+                                    w:hAnsi="Calibri" w:cs="Arial"/>
+                                <w:color w:val="000000" w:themeColor="text1"/>
+                                <w:sz w:val="16"/>
+                                <w:szCs w:val="16"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r w:rsidRPr="00095599">
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:eastAsiaTheme="majorEastAsia"
+                                    w:hAnsi="Calibri" w:cs="Arial"/>
+                                <w:color w:val="000000" w:themeColor="text1"/>
+                                <w:sz w:val="16"/>
+                                <w:szCs w:val="16"/>
+                            </w:rPr>
+                            <w:t>Compatible with 2000, XP, 2003</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+            </w:tr>
+            <w:tr w:rsidR="00B12A95" w:rsidRPr="00A42BD6" w:rsidTr="009B62D5">
+                <w:trPr>
+                    <w:cnfStyle w:val="000000100000"/>
+                    <w:trHeight w:val="450"/>
+                </w:trPr>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="6794" w:type="dxa"/>
+                        <w:gridSpan w:val="3"/>
+                        <w:noWrap/>
+                        <w:vAlign w:val="center"/>
+                    </w:tcPr>
+                    <w:p w:rsidR="00563AE0" w:rsidRDefault="00CE4EDD">
+                        <w:pPr>
+                            <w:tabs>
+                                <w:tab w:val="right" w:leader="dot" w:pos="7200"/>
+                            </w:tabs>
+                            <w:spacing w:before="100" w:beforeAutospacing="1" w:after="100"
+                                w:afterAutospacing="1"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:eastAsiaTheme="majorEastAsia"
+                                    w:hAnsi="Calibri" w:cs="Arial"/>
+                                <w:b/>
+                                <w:bCs/>
+                                <w:sz w:val="16"/>
+                                <w:szCs w:val="16"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:eastAsiaTheme="majorEastAsia"
+                                    w:hAnsi="Calibri" w:cs="Arial"/>
+                                <w:b/>
+                                <w:bCs/>
+                                <w:sz w:val="16"/>
+                                <w:szCs w:val="16"/>
+                            </w:rPr>
+                            <w:t>PowerPoint</w:t>
+                        </w:r>
+                        <w:r w:rsidR="00B12A95" w:rsidRPr="00095599">
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:eastAsiaTheme="majorEastAsia"
+                                    w:hAnsi="Calibri" w:cs="Arial"/>
+                                <w:b/>
+                                <w:bCs/>
+                                <w:sz w:val="16"/>
+                                <w:szCs w:val="16"/>
+                            </w:rPr>
+                            <w:t xml:space="preserve"> 2007 Supported File Formats</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="2494" w:type="dxa"/>
+                    </w:tcPr>
+                    <w:p w:rsidR="00563AE0" w:rsidRDefault="00563AE0">
+                        <w:pPr>
+                            <w:tabs>
+                                <w:tab w:val="right" w:leader="dot" w:pos="7200"/>
+                            </w:tabs>
+                            <w:spacing w:before="100" w:beforeAutospacing="1" w:after="100"
+                                w:afterAutospacing="1"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:eastAsiaTheme="majorEastAsia"
+                                    w:hAnsi="Calibri" w:cs="Arial"/>
+                                <w:bCs/>
+                                <w:sz w:val="16"/>
+                                <w:szCs w:val="16"/>
+                            </w:rPr>
+                        </w:pPr>
+                    </w:p>
+                </w:tc>
+            </w:tr>
+            <w:tr w:rsidR="00B12A95" w:rsidRPr="00A42BD6" w:rsidTr="00916161">
+                <w:trPr>
+                    <w:trHeight w:val="288"/>
+                </w:trPr>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="975" w:type="dxa"/>
+                        <w:noWrap/>
+                    </w:tcPr>
+                    <w:p w:rsidR="00563AE0" w:rsidRDefault="00B12A95">
+                        <w:pPr>
+                            <w:tabs>
+                                <w:tab w:val="right" w:leader="dot" w:pos="7200"/>
+                            </w:tabs>
+                            <w:spacing w:before="100" w:beforeAutospacing="1" w:after="100"
+                                w:afterAutospacing="1"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:eastAsiaTheme="majorEastAsia"
+                                    w:hAnsi="Calibri" w:cs="Arial"/>
+                                <w:color w:val="BA1419"/>
+                                <w:sz w:val="16"/>
+                                <w:szCs w:val="16"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r w:rsidRPr="00095599">
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:eastAsiaTheme="majorEastAsia"
+                                    w:hAnsi="Calibri" w:cs="Arial"/>
+                                <w:color w:val="BA1419"/>
+                                <w:sz w:val="16"/>
+                                <w:szCs w:val="16"/>
+                            </w:rPr>
+                            <w:t>.pptx</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="4893" w:type="dxa"/>
+                        <w:noWrap/>
+                    </w:tcPr>
+                    <w:p w:rsidR="00563AE0" w:rsidRDefault="00CE4EDD">
+                        <w:pPr>
+                            <w:tabs>
+                                <w:tab w:val="right" w:leader="dot" w:pos="7200"/>
+                            </w:tabs>
+                            <w:spacing w:before="100" w:beforeAutospacing="1" w:after="100"
+                                w:afterAutospacing="1"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:eastAsiaTheme="majorEastAsia"
+                                    w:hAnsi="Calibri" w:cs="Arial"/>
+                                <w:color w:val="BA1419"/>
+                                <w:sz w:val="16"/>
+                                <w:szCs w:val="16"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:eastAsiaTheme="majorEastAsia"
+                                    w:hAnsi="Calibri" w:cs="Arial"/>
+                                <w:color w:val="BA1419"/>
+                                <w:sz w:val="16"/>
+                                <w:szCs w:val="16"/>
+                            </w:rPr>
+                            <w:t>PowerPoint</w:t>
+                        </w:r>
+                        <w:r w:rsidR="00B12A95" w:rsidRPr="00095599">
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:eastAsiaTheme="majorEastAsia"
+                                    w:hAnsi="Calibri" w:cs="Arial"/>
+                                <w:color w:val="BA1419"/>
+                                <w:sz w:val="16"/>
+                                <w:szCs w:val="16"/>
+                            </w:rPr>
+                            <w:t xml:space="preserve"> Presentation (.pptx)</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="926" w:type="dxa"/>
+                    </w:tcPr>
+                    <w:p w:rsidR="00563AE0" w:rsidRDefault="00B12A95">
+                        <w:pPr>
+                            <w:tabs>
+                                <w:tab w:val="right" w:leader="dot" w:pos="7200"/>
+                            </w:tabs>
+                            <w:spacing w:before="100" w:beforeAutospacing="1" w:after="100"
+                                w:afterAutospacing="1"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:eastAsiaTheme="majorEastAsia"
+                                    w:hAnsi="Calibri" w:cs="Arial"/>
+                                <w:color w:val="BA1419"/>
+                                <w:sz w:val="16"/>
+                                <w:szCs w:val="16"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r w:rsidRPr="00095599">
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:eastAsiaTheme="majorEastAsia"
+                                    w:hAnsi="Calibri" w:cs="Arial"/>
+                                <w:color w:val="BA1419"/>
+                                <w:sz w:val="16"/>
+                                <w:szCs w:val="16"/>
+                            </w:rPr>
+                            <w:t xml:space="preserve">New </w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="2494" w:type="dxa"/>
+                    </w:tcPr>
+                    <w:p w:rsidR="00563AE0" w:rsidRDefault="00B12A95">
+                        <w:pPr>
+                            <w:tabs>
+                                <w:tab w:val="right" w:leader="dot" w:pos="7200"/>
+                            </w:tabs>
+                            <w:spacing w:before="100" w:beforeAutospacing="1" w:after="100"
+                                w:afterAutospacing="1"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:eastAsiaTheme="majorEastAsia"
+                                    w:hAnsi="Calibri" w:cs="Arial"/>
+                                <w:color w:val="BA1419"/>
+                                <w:sz w:val="16"/>
+                                <w:szCs w:val="16"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r w:rsidRPr="00095599">
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:eastAsiaTheme="majorEastAsia"
+                                    w:hAnsi="Calibri" w:cs="Arial"/>
+                                <w:color w:val="BA1419"/>
+                                <w:sz w:val="16"/>
+                                <w:szCs w:val="16"/>
+                            </w:rPr>
+                            <w:t>Compatible with 2000, XP, 2003</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+            </w:tr>
+            <w:tr w:rsidR="00B12A95" w:rsidRPr="00A42BD6" w:rsidTr="00916161">
+                <w:trPr>
+                    <w:cnfStyle w:val="000000100000"/>
+                    <w:trHeight w:val="288"/>
+                </w:trPr>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="975" w:type="dxa"/>
+                        <w:noWrap/>
+                    </w:tcPr>
+                    <w:p w:rsidR="00563AE0" w:rsidRDefault="00B12A95">
+                        <w:pPr>
+                            <w:tabs>
+                                <w:tab w:val="right" w:leader="dot" w:pos="7200"/>
+                            </w:tabs>
+                            <w:spacing w:before="100" w:beforeAutospacing="1" w:after="100"
+                                w:afterAutospacing="1"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:eastAsiaTheme="majorEastAsia"
+                                    w:hAnsi="Calibri" w:cs="Arial"/>
+                                <w:sz w:val="16"/>
+                                <w:szCs w:val="16"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r w:rsidRPr="00095599">
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:eastAsiaTheme="majorEastAsia"
+                                    w:hAnsi="Calibri" w:cs="Arial"/>
+                                <w:sz w:val="16"/>
+                                <w:szCs w:val="16"/>
+                            </w:rPr>
+                            <w:t>.pptm</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="4893" w:type="dxa"/>
+                        <w:noWrap/>
+                    </w:tcPr>
+                    <w:p w:rsidR="00563AE0" w:rsidRDefault="00CE4EDD">
+                        <w:pPr>
+                            <w:tabs>
+                                <w:tab w:val="right" w:leader="dot" w:pos="7200"/>
+                            </w:tabs>
+                            <w:spacing w:before="100" w:beforeAutospacing="1" w:after="100"
+                                w:afterAutospacing="1"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:eastAsiaTheme="majorEastAsia"
+                                    w:hAnsi="Calibri" w:cs="Arial"/>
+                                <w:sz w:val="16"/>
+                                <w:szCs w:val="16"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:eastAsiaTheme="majorEastAsia"
+                                    w:hAnsi="Calibri" w:cs="Arial"/>
+                                <w:sz w:val="16"/>
+                                <w:szCs w:val="16"/>
+                            </w:rPr>
+                            <w:t>PowerPoint</w:t>
+                        </w:r>
+                        <w:r w:rsidR="00B12A95" w:rsidRPr="00095599">
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:eastAsiaTheme="majorEastAsia"
+                                    w:hAnsi="Calibri" w:cs="Arial"/>
+                                <w:sz w:val="16"/>
+                                <w:szCs w:val="16"/>
+                            </w:rPr>
+                            <w:t xml:space="preserve"> Macro-enabled Presentation (.pptm)</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="926" w:type="dxa"/>
+                    </w:tcPr>
+                    <w:p w:rsidR="00563AE0" w:rsidRDefault="00B12A95">
+                        <w:pPr>
+                            <w:tabs>
+                                <w:tab w:val="right" w:leader="dot" w:pos="7200"/>
+                            </w:tabs>
+                            <w:spacing w:before="100" w:beforeAutospacing="1" w:after="100"
+                                w:afterAutospacing="1"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:eastAsiaTheme="majorEastAsia"
+                                    w:hAnsi="Calibri" w:cs="Arial"/>
+                                <w:sz w:val="16"/>
+                                <w:szCs w:val="16"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r w:rsidRPr="00095599">
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:eastAsiaTheme="majorEastAsia"
+                                    w:hAnsi="Calibri" w:cs="Arial"/>
+                                <w:sz w:val="16"/>
+                                <w:szCs w:val="16"/>
+                            </w:rPr>
+                            <w:t xml:space="preserve">New </w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="2494" w:type="dxa"/>
+                    </w:tcPr>
+                    <w:p w:rsidR="00563AE0" w:rsidRDefault="00B12A95">
+                        <w:pPr>
+                            <w:tabs>
+                                <w:tab w:val="right" w:leader="dot" w:pos="7200"/>
+                            </w:tabs>
+                            <w:spacing w:before="100" w:beforeAutospacing="1" w:after="100"
+                                w:afterAutospacing="1"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:eastAsiaTheme="majorEastAsia"
+                                    w:hAnsi="Calibri" w:cs="Arial"/>
+                                <w:color w:val="000000" w:themeColor="text1"/>
+                                <w:sz w:val="16"/>
+                                <w:szCs w:val="16"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r w:rsidRPr="00095599">
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:eastAsiaTheme="majorEastAsia"
+                                    w:hAnsi="Calibri" w:cs="Arial"/>
+                                <w:color w:val="000000" w:themeColor="text1"/>
+                                <w:sz w:val="16"/>
+                                <w:szCs w:val="16"/>
+                            </w:rPr>
+                            <w:t>Compatible with 2000, XP, 2003</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+            </w:tr>
+            <w:tr w:rsidR="00B12A95" w:rsidRPr="00A42BD6" w:rsidTr="00916161">
+                <w:trPr>
+                    <w:trHeight w:val="288"/>
+                </w:trPr>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="975" w:type="dxa"/>
+                        <w:noWrap/>
+                    </w:tcPr>
+                    <w:p w:rsidR="00563AE0" w:rsidRDefault="00B12A95">
+                        <w:pPr>
+                            <w:tabs>
+                                <w:tab w:val="right" w:leader="dot" w:pos="7200"/>
+                            </w:tabs>
+                            <w:spacing w:before="100" w:beforeAutospacing="1" w:after="100"
+                                w:afterAutospacing="1"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:eastAsiaTheme="majorEastAsia"
+                                    w:hAnsi="Calibri" w:cs="Arial"/>
+                                <w:sz w:val="16"/>
+                                <w:szCs w:val="16"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r w:rsidRPr="00095599">
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:eastAsiaTheme="majorEastAsia"
+                                    w:hAnsi="Calibri" w:cs="Arial"/>
+                                <w:sz w:val="16"/>
+                                <w:szCs w:val="16"/>
+                            </w:rPr>
+                            <w:t>.ppsx</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="4893" w:type="dxa"/>
+                        <w:noWrap/>
+                    </w:tcPr>
+                    <w:p w:rsidR="00563AE0" w:rsidRDefault="00CE4EDD">
+                        <w:pPr>
+                            <w:tabs>
+                                <w:tab w:val="right" w:leader="dot" w:pos="7200"/>
+                            </w:tabs>
+                            <w:spacing w:before="100" w:beforeAutospacing="1" w:after="100"
+                                w:afterAutospacing="1"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:eastAsiaTheme="majorEastAsia"
+                                    w:hAnsi="Calibri" w:cs="Arial"/>
+                                <w:sz w:val="16"/>
+                                <w:szCs w:val="16"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:eastAsiaTheme="majorEastAsia"
+                                    w:hAnsi="Calibri" w:cs="Arial"/>
+                                <w:sz w:val="16"/>
+                                <w:szCs w:val="16"/>
+                            </w:rPr>
+                            <w:t>PowerPoint</w:t>
+                        </w:r>
+                        <w:r w:rsidR="00B12A95" w:rsidRPr="00095599">
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:eastAsiaTheme="majorEastAsia"
+                                    w:hAnsi="Calibri" w:cs="Arial"/>
+                                <w:sz w:val="16"/>
+                                <w:szCs w:val="16"/>
+                            </w:rPr>
+                            <w:t xml:space="preserve"> Slide Show (.ppsx)</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="926" w:type="dxa"/>
+                    </w:tcPr>
+                    <w:p w:rsidR="00563AE0" w:rsidRDefault="00B12A95">
+                        <w:pPr>
+                            <w:tabs>
+                                <w:tab w:val="right" w:leader="dot" w:pos="7200"/>
+                            </w:tabs>
+                            <w:spacing w:before="100" w:beforeAutospacing="1" w:after="100"
+                                w:afterAutospacing="1"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:eastAsiaTheme="majorEastAsia"
+                                    w:hAnsi="Calibri" w:cs="Arial"/>
+                                <w:sz w:val="16"/>
+                                <w:szCs w:val="16"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r w:rsidRPr="00095599">
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:eastAsiaTheme="majorEastAsia"
+                                    w:hAnsi="Calibri" w:cs="Arial"/>
+                                <w:color w:val="000000" w:themeColor="text1"/>
+                                <w:sz w:val="16"/>
+                                <w:szCs w:val="16"/>
+                            </w:rPr>
+                            <w:t>New</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="2494" w:type="dxa"/>
+                    </w:tcPr>
+                    <w:p w:rsidR="00563AE0" w:rsidRDefault="00B12A95">
+                        <w:pPr>
+                            <w:tabs>
+                                <w:tab w:val="right" w:leader="dot" w:pos="7200"/>
+                            </w:tabs>
+                            <w:spacing w:before="100" w:beforeAutospacing="1" w:after="100"
+                                w:afterAutospacing="1"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:eastAsiaTheme="majorEastAsia"
+                                    w:hAnsi="Calibri" w:cs="Arial"/>
+                                <w:color w:val="000000" w:themeColor="text1"/>
+                                <w:sz w:val="16"/>
+                                <w:szCs w:val="16"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r w:rsidRPr="00095599">
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:eastAsiaTheme="majorEastAsia"
+                                    w:hAnsi="Calibri" w:cs="Arial"/>
+                                <w:color w:val="000000" w:themeColor="text1"/>
+                                <w:sz w:val="16"/>
+                                <w:szCs w:val="16"/>
+                            </w:rPr>
+                            <w:t>Compatible with 2000, XP, 2003</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+            </w:tr>
+            <w:tr w:rsidR="00B12A95" w:rsidRPr="00A42BD6" w:rsidTr="00916161">
+                <w:trPr>
+                    <w:cnfStyle w:val="000000100000"/>
+                    <w:trHeight w:val="288"/>
+                </w:trPr>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="975" w:type="dxa"/>
+                        <w:noWrap/>
+                    </w:tcPr>
+                    <w:p w:rsidR="00563AE0" w:rsidRDefault="00B12A95">
+                        <w:pPr>
+                            <w:tabs>
+                                <w:tab w:val="right" w:leader="dot" w:pos="7200"/>
+                            </w:tabs>
+                            <w:spacing w:before="100" w:beforeAutospacing="1" w:after="100"
+                                w:afterAutospacing="1"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:eastAsiaTheme="majorEastAsia"
+                                    w:hAnsi="Calibri" w:cs="Arial"/>
+                                <w:sz w:val="16"/>
+                                <w:szCs w:val="16"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r w:rsidRPr="00095599">
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:eastAsiaTheme="majorEastAsia"
+                                    w:hAnsi="Calibri" w:cs="Arial"/>
+                                <w:sz w:val="16"/>
+                                <w:szCs w:val="16"/>
+                            </w:rPr>
+                            <w:t>.ppsm</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="4893" w:type="dxa"/>
+                        <w:noWrap/>
+                    </w:tcPr>
+                    <w:p w:rsidR="00563AE0" w:rsidRDefault="00CE4EDD">
+                        <w:pPr>
+                            <w:tabs>
+                                <w:tab w:val="right" w:leader="dot" w:pos="7200"/>
+                            </w:tabs>
+                            <w:spacing w:before="100" w:beforeAutospacing="1" w:after="100"
+                                w:afterAutospacing="1"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:eastAsiaTheme="majorEastAsia"
+                                    w:hAnsi="Calibri" w:cs="Arial"/>
+                                <w:sz w:val="16"/>
+                                <w:szCs w:val="16"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:eastAsiaTheme="majorEastAsia"
+                                    w:hAnsi="Calibri" w:cs="Arial"/>
+                                <w:sz w:val="16"/>
+                                <w:szCs w:val="16"/>
+                            </w:rPr>
+                            <w:t>PowerPoint</w:t>
+                        </w:r>
+                        <w:r w:rsidR="00B12A95" w:rsidRPr="00095599">
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:eastAsiaTheme="majorEastAsia"
+                                    w:hAnsi="Calibri" w:cs="Arial"/>
+                                <w:sz w:val="16"/>
+                                <w:szCs w:val="16"/>
+                            </w:rPr>
+                            <w:t xml:space="preserve"> Macro-enabled Slide Show (.ppsx)</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="926" w:type="dxa"/>
+                    </w:tcPr>
+                    <w:p w:rsidR="00563AE0" w:rsidRDefault="00B12A95">
+                        <w:pPr>
+                            <w:tabs>
+                                <w:tab w:val="right" w:leader="dot" w:pos="7200"/>
+                            </w:tabs>
+                            <w:spacing w:before="100" w:beforeAutospacing="1" w:after="100"
+                                w:afterAutospacing="1"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:eastAsiaTheme="majorEastAsia"
+                                    w:hAnsi="Calibri" w:cs="Arial"/>
+                                <w:sz w:val="16"/>
+                                <w:szCs w:val="16"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r w:rsidRPr="00095599">
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:eastAsiaTheme="majorEastAsia"
+                                    w:hAnsi="Calibri" w:cs="Arial"/>
+                                <w:color w:val="000000" w:themeColor="text1"/>
+                                <w:sz w:val="16"/>
+                                <w:szCs w:val="16"/>
+                            </w:rPr>
+                            <w:t>New</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="2494" w:type="dxa"/>
+                    </w:tcPr>
+                    <w:p w:rsidR="00563AE0" w:rsidRDefault="00B12A95">
+                        <w:pPr>
+                            <w:tabs>
+                                <w:tab w:val="right" w:leader="dot" w:pos="7200"/>
+                            </w:tabs>
+                            <w:spacing w:before="100" w:beforeAutospacing="1" w:after="100"
+                                w:afterAutospacing="1"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:eastAsiaTheme="majorEastAsia"
+                                    w:hAnsi="Calibri" w:cs="Arial"/>
+                                <w:color w:val="000000" w:themeColor="text1"/>
+                                <w:sz w:val="16"/>
+                                <w:szCs w:val="16"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r w:rsidRPr="00095599">
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:eastAsiaTheme="majorEastAsia"
+                                    w:hAnsi="Calibri" w:cs="Arial"/>
+                                <w:color w:val="000000" w:themeColor="text1"/>
+                                <w:sz w:val="16"/>
+                                <w:szCs w:val="16"/>
+                            </w:rPr>
+                            <w:t>Compatible with 2000, XP, 2003</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+            </w:tr>
+            <w:tr w:rsidR="00B12A95" w:rsidRPr="00A42BD6" w:rsidTr="00916161">
+                <w:trPr>
+                    <w:trHeight w:val="288"/>
+                </w:trPr>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="975" w:type="dxa"/>
+                        <w:noWrap/>
+                    </w:tcPr>
+                    <w:p w:rsidR="00563AE0" w:rsidRDefault="00B12A95">
+                        <w:pPr>
+                            <w:tabs>
+                                <w:tab w:val="right" w:leader="dot" w:pos="7200"/>
+                            </w:tabs>
+                            <w:spacing w:before="100" w:beforeAutospacing="1" w:after="100"
+                                w:afterAutospacing="1"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:eastAsiaTheme="majorEastAsia"
+                                    w:hAnsi="Calibri" w:cs="Arial"/>
+                                <w:sz w:val="16"/>
+                                <w:szCs w:val="16"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r w:rsidRPr="00095599">
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:eastAsiaTheme="majorEastAsia"
+                                    w:hAnsi="Calibri" w:cs="Arial"/>
+                                <w:sz w:val="16"/>
+                                <w:szCs w:val="16"/>
+                            </w:rPr>
+                            <w:t>.potx</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="4893" w:type="dxa"/>
+                        <w:noWrap/>
+                    </w:tcPr>
+                    <w:p w:rsidR="00563AE0" w:rsidRDefault="00CE4EDD">
+                        <w:pPr>
+                            <w:tabs>
+                                <w:tab w:val="right" w:leader="dot" w:pos="7200"/>
+                            </w:tabs>
+                            <w:spacing w:before="100" w:beforeAutospacing="1" w:after="100"
+                                w:afterAutospacing="1"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:eastAsiaTheme="majorEastAsia"
+                                    w:hAnsi="Calibri" w:cs="Arial"/>
+                                <w:sz w:val="16"/>
+                                <w:szCs w:val="16"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:eastAsiaTheme="majorEastAsia"
+                                    w:hAnsi="Calibri" w:cs="Arial"/>
+                                <w:sz w:val="16"/>
+                                <w:szCs w:val="16"/>
+                            </w:rPr>
+                            <w:t>PowerPoint</w:t>
+                        </w:r>
+                        <w:r w:rsidR="00B12A95" w:rsidRPr="00095599">
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:eastAsiaTheme="majorEastAsia"
+                                    w:hAnsi="Calibri" w:cs="Arial"/>
+                                <w:sz w:val="16"/>
+                                <w:szCs w:val="16"/>
+                            </w:rPr>
+                            <w:t xml:space="preserve"> Template (.potx)</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="926" w:type="dxa"/>
+                    </w:tcPr>
+                    <w:p w:rsidR="00563AE0" w:rsidRDefault="00B12A95">
+                        <w:pPr>
+                            <w:tabs>
+                                <w:tab w:val="right" w:leader="dot" w:pos="7200"/>
+                            </w:tabs>
+                            <w:spacing w:before="100" w:beforeAutospacing="1" w:after="100"
+                                w:afterAutospacing="1"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:eastAsiaTheme="majorEastAsia"
+                                    w:hAnsi="Calibri" w:cs="Arial"/>
+                                <w:sz w:val="16"/>
+                                <w:szCs w:val="16"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r w:rsidRPr="00095599">
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:eastAsiaTheme="majorEastAsia"
+                                    w:hAnsi="Calibri" w:cs="Arial"/>
+                                <w:color w:val="000000" w:themeColor="text1"/>
+                                <w:sz w:val="16"/>
+                                <w:szCs w:val="16"/>
+                            </w:rPr>
+                            <w:t>New</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="2494" w:type="dxa"/>
+                    </w:tcPr>
+                    <w:p w:rsidR="00563AE0" w:rsidRDefault="00B12A95">
+                        <w:pPr>
+                            <w:tabs>
+                                <w:tab w:val="right" w:leader="dot" w:pos="7200"/>
+                            </w:tabs>
+                            <w:spacing w:before="100" w:beforeAutospacing="1" w:after="100"
+                                w:afterAutospacing="1"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:eastAsiaTheme="majorEastAsia"
+                                    w:hAnsi="Calibri" w:cs="Arial"/>
+                                <w:color w:val="000000" w:themeColor="text1"/>
+                                <w:sz w:val="16"/>
+                                <w:szCs w:val="16"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r w:rsidRPr="00095599">
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:eastAsiaTheme="majorEastAsia"
+                                    w:hAnsi="Calibri" w:cs="Arial"/>
+                                <w:color w:val="000000" w:themeColor="text1"/>
+                                <w:sz w:val="16"/>
+                                <w:szCs w:val="16"/>
+                            </w:rPr>
+                            <w:t>Compatible with 2000, XP, 2003</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+            </w:tr>
+            <w:tr w:rsidR="00B12A95" w:rsidRPr="00A42BD6" w:rsidTr="00916161">
+                <w:trPr>
+                    <w:cnfStyle w:val="000000100000"/>
+                    <w:trHeight w:val="288"/>
+                </w:trPr>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="975" w:type="dxa"/>
+                        <w:noWrap/>
+                    </w:tcPr>
+                    <w:p w:rsidR="00563AE0" w:rsidRDefault="00B12A95">
+                        <w:pPr>
+                            <w:tabs>
+                                <w:tab w:val="right" w:leader="dot" w:pos="7200"/>
+                            </w:tabs>
+                            <w:spacing w:before="100" w:beforeAutospacing="1" w:after="100"
+                                w:afterAutospacing="1"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:eastAsiaTheme="majorEastAsia"
+                                    w:hAnsi="Calibri" w:cs="Arial"/>
+                                <w:sz w:val="16"/>
+                                <w:szCs w:val="16"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r w:rsidRPr="00095599">
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:eastAsiaTheme="majorEastAsia"
+                                    w:hAnsi="Calibri" w:cs="Arial"/>
+                                <w:sz w:val="16"/>
+                                <w:szCs w:val="16"/>
+                            </w:rPr>
+                            <w:t>.potm</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="4893" w:type="dxa"/>
+                        <w:noWrap/>
+                    </w:tcPr>
+                    <w:p w:rsidR="00563AE0" w:rsidRDefault="00CE4EDD">
+                        <w:pPr>
+                            <w:tabs>
+                                <w:tab w:val="right" w:leader="dot" w:pos="7200"/>
+                            </w:tabs>
+                            <w:spacing w:before="100" w:beforeAutospacing="1" w:after="100"
+                                w:afterAutospacing="1"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:eastAsiaTheme="majorEastAsia"
+                                    w:hAnsi="Calibri" w:cs="Arial"/>
+                                <w:sz w:val="16"/>
+                                <w:szCs w:val="16"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:eastAsiaTheme="majorEastAsia"
+                                    w:hAnsi="Calibri" w:cs="Arial"/>
+                                <w:sz w:val="16"/>
+                                <w:szCs w:val="16"/>
+                            </w:rPr>
+                            <w:t>PowerPoint</w:t>
+                        </w:r>
+                        <w:r w:rsidR="00B12A95" w:rsidRPr="00095599">
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:eastAsiaTheme="majorEastAsia"
+                                    w:hAnsi="Calibri" w:cs="Arial"/>
+                                <w:sz w:val="16"/>
+                                <w:szCs w:val="16"/>
+                            </w:rPr>
+                            <w:t xml:space="preserve"> Macro-enabled Presentation Template (.potm)</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="926" w:type="dxa"/>
+                    </w:tcPr>
+                    <w:p w:rsidR="00563AE0" w:rsidRDefault="00B12A95">
+                        <w:pPr>
+                            <w:tabs>
+                                <w:tab w:val="right" w:leader="dot" w:pos="7200"/>
+                            </w:tabs>
+                            <w:spacing w:before="100" w:beforeAutospacing="1" w:after="100"
+                                w:afterAutospacing="1"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:eastAsiaTheme="majorEastAsia"
+                                    w:hAnsi="Calibri" w:cs="Arial"/>
+                                <w:sz w:val="16"/>
+                                <w:szCs w:val="16"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r w:rsidRPr="00095599">
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:eastAsiaTheme="majorEastAsia"
+                                    w:hAnsi="Calibri" w:cs="Arial"/>
+                                <w:color w:val="000000" w:themeColor="text1"/>
+                                <w:sz w:val="16"/>
+                                <w:szCs w:val="16"/>
+                            </w:rPr>
+                            <w:t>New</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="2494" w:type="dxa"/>
+                    </w:tcPr>
+                    <w:p w:rsidR="00563AE0" w:rsidRDefault="00B12A95">
+                        <w:pPr>
+                            <w:tabs>
+                                <w:tab w:val="right" w:leader="dot" w:pos="7200"/>
+                            </w:tabs>
+                            <w:spacing w:before="100" w:beforeAutospacing="1" w:after="100"
+                                w:afterAutospacing="1"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:eastAsiaTheme="majorEastAsia"
+                                    w:hAnsi="Calibri" w:cs="Arial"/>
+                                <w:color w:val="000000" w:themeColor="text1"/>
+                                <w:sz w:val="16"/>
+                                <w:szCs w:val="16"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r w:rsidRPr="00095599">
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:eastAsiaTheme="majorEastAsia"
+                                    w:hAnsi="Calibri" w:cs="Arial"/>
+                                <w:color w:val="000000" w:themeColor="text1"/>
+                                <w:sz w:val="16"/>
+                                <w:szCs w:val="16"/>
+                            </w:rPr>
+                            <w:t>Compatible with 2000, XP, 2003</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+            </w:tr>
+            <w:tr w:rsidR="00B12A95" w:rsidRPr="00A42BD6" w:rsidTr="00916161">
+                <w:trPr>
+                    <w:trHeight w:val="288"/>
+                </w:trPr>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="975" w:type="dxa"/>
+                        <w:noWrap/>
+                    </w:tcPr>
+                    <w:p w:rsidR="00563AE0" w:rsidRDefault="00B12A95">
+                        <w:pPr>
+                            <w:tabs>
+                                <w:tab w:val="right" w:leader="dot" w:pos="7200"/>
+                            </w:tabs>
+                            <w:spacing w:before="100" w:beforeAutospacing="1" w:after="100"
+                                w:afterAutospacing="1"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:eastAsiaTheme="majorEastAsia"
+                                    w:hAnsi="Calibri" w:cs="Arial"/>
+                                <w:sz w:val="16"/>
+                                <w:szCs w:val="16"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r w:rsidRPr="00095599">
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:eastAsiaTheme="majorEastAsia"
+                                    w:hAnsi="Calibri" w:cs="Arial"/>
+                                <w:sz w:val="16"/>
+                                <w:szCs w:val="16"/>
+                            </w:rPr>
+                            <w:t>.ppam</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="4893" w:type="dxa"/>
+                        <w:noWrap/>
+                    </w:tcPr>
+                    <w:p w:rsidR="00563AE0" w:rsidRDefault="00CE4EDD">
+                        <w:pPr>
+                            <w:tabs>
+                                <w:tab w:val="right" w:leader="dot" w:pos="7200"/>
+                            </w:tabs>
+                            <w:spacing w:before="100" w:beforeAutospacing="1" w:after="100"
+                                w:afterAutospacing="1"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:eastAsiaTheme="majorEastAsia"
+                                    w:hAnsi="Calibri" w:cs="Arial"/>
+                                <w:sz w:val="16"/>
+                                <w:szCs w:val="16"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:eastAsiaTheme="majorEastAsia"
+                                    w:hAnsi="Calibri" w:cs="Arial"/>
+                                <w:sz w:val="16"/>
+                                <w:szCs w:val="16"/>
+                            </w:rPr>
+                            <w:t>PowerPoint</w:t>
+                        </w:r>
+                        <w:r w:rsidR="00B12A95" w:rsidRPr="00095599">
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:eastAsiaTheme="majorEastAsia"
+                                    w:hAnsi="Calibri" w:cs="Arial"/>
+                                <w:sz w:val="16"/>
+                                <w:szCs w:val="16"/>
+                            </w:rPr>
+                            <w:t xml:space="preserve"> Add-in (.ppam)</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="926" w:type="dxa"/>
+                    </w:tcPr>
+                    <w:p w:rsidR="00563AE0" w:rsidRDefault="00B12A95">
+                        <w:pPr>
+                            <w:tabs>
+                                <w:tab w:val="right" w:leader="dot" w:pos="7200"/>
+                            </w:tabs>
+                            <w:spacing w:before="100" w:beforeAutospacing="1" w:after="100"
+                                w:afterAutospacing="1"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:eastAsiaTheme="majorEastAsia"
+                                    w:hAnsi="Calibri" w:cs="Arial"/>
+                                <w:sz w:val="16"/>
+                                <w:szCs w:val="16"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r w:rsidRPr="00095599">
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:eastAsiaTheme="majorEastAsia"
+                                    w:hAnsi="Calibri" w:cs="Arial"/>
+                                <w:color w:val="000000" w:themeColor="text1"/>
+                                <w:sz w:val="16"/>
+                                <w:szCs w:val="16"/>
+                            </w:rPr>
+                            <w:t>New</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="2494" w:type="dxa"/>
+                    </w:tcPr>
+                    <w:p w:rsidR="00563AE0" w:rsidRDefault="00563AE0">
+                        <w:pPr>
+                            <w:keepNext/>
+                            <w:tabs>
+                                <w:tab w:val="right" w:leader="dot" w:pos="7200"/>
+                            </w:tabs>
+                            <w:spacing w:before="100" w:beforeAutospacing="1" w:after="100"
+                                w:afterAutospacing="1"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Calibri" w:eastAsiaTheme="majorEastAsia"
+                                    w:hAnsi="Calibri" w:cs="Arial"/>
+                                <w:color w:val="000000" w:themeColor="text1"/>
+                                <w:sz w:val="16"/>
+                                <w:szCs w:val="16"/>
+                            </w:rPr>
+                        </w:pPr>
+                    </w:p>
+                </w:tc>
+            </w:tr>
+        </w:tbl>
+        <w:p>
+            <w:r>
+                <w:br/>
+            </w:r>
+        </w:p>
+        <w:sectPr w:rsidR="00563AE0" w:rsidSect="0037249E">
+            <w:headerReference w:type="even" r:id="rId41"/>
+            <w:pgSz w:w="12240" w:h="15840" w:code="1"/>
+            <w:pgMar w:top="2880" w:right="1440" w:bottom="1584" w:left="1728" w:header="720"
+                w:footer="720" w:gutter="0"/>
+            <w:pgNumType w:start="1"/>
+            <w:cols w:space="720"/>
+        </w:sectPr>
+    </w:body>
+</w:document>

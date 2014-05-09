@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<w:document xmlns:ve="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:o="urn:schemas-microsoft-com:office:office"
+    xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships"
+    xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math"
+    xmlns:v="urn:schemas-microsoft-com:vml"
+    xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing"
+    xmlns:w10="urn:schemas-microsoft-com:office:word"
+    xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main"
+    xmlns:wne="http://schemas.microsoft.com/office/word/2006/wordml">
+    <w:body>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="Normal"/>
+            </w:pPr>
+            <w:r>
+                <w:t>A normal body paragraph 0</w:t>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="Heading1"/>
+            </w:pPr>
+            <w:r>
+                <w:t>HEADING 1</w:t>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="Heading2"/>
+            </w:pPr>
+            <w:r>
+                <w:t>Heading 2</w:t>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="Heading3"/>
+            </w:pPr>
+            <w:r>
+                <w:t>heading 3</w:t>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="Normal"/>
+            </w:pPr>
+            <w:r>
+                <w:t>A normal body paragraph 1</w:t>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="Normal"/>
+            </w:pPr>
+            <w:r>
+                <w:t>A normal body paragraph 2</w:t>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="Heading2"/>
+            </w:pPr>
+            <w:r>
+                <w:t>Heading 2</w:t>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="Heading3"/>
+            </w:pPr>
+            <w:r>
+                <w:t>heading 3</w:t>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="Normal"/>
+            </w:pPr>
+            <w:r>
+                <w:t>A normal body paragraph 3</w:t>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="Heading2"/>
+            </w:pPr>
+            <w:r>
+                <w:t>Heading 2</w:t>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="Normal"/>
+            </w:pPr>
+            <w:r>
+                <w:t>A normal body paragraph 4</w:t>
+            </w:r>
+        </w:p>       
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="Heading1"/>
+            </w:pPr>
+            <w:r>
+                <w:t>HEADING 1</w:t>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="Heading2"/>
+            </w:pPr>
+            <w:r>
+                <w:t>Heading 2</w:t>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="Heading3"/>
+            </w:pPr>
+            <w:r>
+                <w:t>heading 3</w:t>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="Normal"/>
+            </w:pPr>
+            <w:r>
+                <w:t>A normal body paragraph 5</w:t>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="Normal"/>
+            </w:pPr>
+            <w:r>
+                <w:t>A normal body paragraph 6</w:t>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="Heading3"/>
+            </w:pPr>
+            <w:r>
+                <w:t>heading 3</w:t>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="Normal"/>
+            </w:pPr>
+            <w:r>
+                <w:t>A normal body paragraph 7</w:t>
+            </w:r>
+        </w:p>
+        <w:sectPr w:rsidSect="0037249E">
+            <w:headerReference w:type="even" r:id="rId41"/>
+            <w:pgSz w:w="12240" w:h="15840" w:code="1"/>
+            <w:pgMar w:top="2880" w:right="1440" w:bottom="1584" w:left="1728" w:header="720"
+                w:footer="720" w:gutter="0"/>
+            <w:pgNumType w:start="1"/>
+            <w:cols w:space="720"/>
+        </w:sectPr>
+    </w:body>
+</w:document>

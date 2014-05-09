@@ -1,0 +1,1057 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<w:document xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main"
+    xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships">
+    <w:body>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="Text_20_body"/>
+                <w:widowControl w:val="off"/>
+                <w:suppressAutoHyphens w:val="true"/>
+                <w:spacing w:lineRule="auto" w:line="360" w:after="0" w:before="0"/>
+                <w:jc w:val="center"/>
+                <w:outlineLvl w:val="9"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Courier New"
+                        w:eastAsia="Courier New"/>
+                    <w:b w:val="off"/>
+                    <w:i w:val="off"/>
+                    <w:sz w:val="24"/>
+                    <w:szCs w:val="24"/>
+                    <w:highlight w:val="yellow"/>
+                    <w:lang w:val="en-US"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r xmlns:v="urn:schemas-microsoft-com:vml"
+                xmlns:o="urn:schemas-microsoft-com:office:office"
+                xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing"
+                xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main"
+                xmlns:w10="urn:schemas-microsoft-com:office:word">
+                <w:rPr>
+                    <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Courier New"
+                        w:eastAsia="Courier New"/>
+                    <w:b w:val="off"/>
+                    <w:i w:val="off"/>
+                    <w:sz w:val="24"/>
+                    <w:szCs w:val="24"/>
+                    <w:highlight w:val="yellow"/>
+                    <w:lang w:val="en-US"/>
+                </w:rPr>
+                <w:drawing>
+                    <wp:anchor simplePos="0" locked="0" layoutInCell="1" allowOverlap="1"
+                        relativeHeight="2" behindDoc="0">
+                        <wp:simplePos x="0" y="0"/>
+                        <wp:positionH relativeFrom="column">
+                            <wp:posOffset>1866900</wp:posOffset>
+                        </wp:positionH>
+                        <wp:positionV relativeFrom="line">
+                            <wp:posOffset>-254000</wp:posOffset>
+                        </wp:positionV>
+                        <wp:extent cx="2373508" cy="618500"/>
+                        <wp:effectExtent l="0" t="0" r="0" b="0"/>
+                        <wp:wrapTopAndBottom distB="0" distT="0"/>
+                        <wp:docPr name="graphics1" id="1"/>
+                        <wp:cNvGraphicFramePr>
+                            <a:graphicFrameLocks noChangeAspect="1"/>
+                        </wp:cNvGraphicFramePr>
+                        <a:graphic>
+                            <a:graphicData
+                                uri="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                                <pic:pic
+                                    xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                                    <pic:nvPicPr>
+                                        <pic:cNvPr name="graphics1" id="1"/>
+                                        <pic:cNvPicPr>
+                                            <a:picLocks noChangeAspect="1"/>
+                                        </pic:cNvPicPr>
+                                    </pic:nvPicPr>
+                                    <pic:blipFill>
+                                        <a:blip r:embed="ID0ERBAC"/>
+                                        <a:srcRect t="0" b="0" r="0" l="0"/>
+                                        <a:stretch>
+                                            <a:fillRect/>
+                                        </a:stretch>
+                                    </pic:blipFill>
+                                    <pic:spPr>
+                                        <a:xfrm>
+                                            <a:off x="0" y="0"/>
+                                            <a:ext cx="2373508" cy="618500"/>
+                                        </a:xfrm>
+                                        <a:prstGeom prst="rect">
+                                            <a:avLst/>
+                                        </a:prstGeom>
+                                    </pic:spPr>
+                                </pic:pic>
+                            </a:graphicData>
+                        </a:graphic>
+                    </wp:anchor>
+                </w:drawing>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="Text_20_body"/>
+                <w:widowControl w:val="off"/>
+                <w:suppressAutoHyphens w:val="true"/>
+                <w:spacing w:lineRule="auto" w:line="360" w:after="0" w:before="0"/>
+                <w:jc w:val="center"/>
+                <w:outlineLvl w:val="9"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Courier New"
+                        w:eastAsia="Courier New"/>
+                    <w:b w:val="on"/>
+                    <w:i w:val="off"/>
+                    <w:sz w:val="32"/>
+                    <w:szCs w:val="32"/>
+                    <w:highlight w:val="none"/>
+                    <w:lang w:val="en-US"/>
+                </w:rPr>
+            </w:pPr>
+            <w:bookmarkStart w:id="0" w:name="DDE_LINK6"/>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="Text_20_body"/>
+                <w:widowControl w:val="off"/>
+                <w:suppressAutoHyphens w:val="true"/>
+                <w:spacing w:lineRule="auto" w:line="240" w:after="0" w:before="0"/>
+                <w:jc w:val="center"/>
+                <w:outlineLvl w:val="9"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Courier New"
+                        w:eastAsia="Courier New"/>
+                    <w:b w:val="on"/>
+                    <w:i w:val="off"/>
+                    <w:sz w:val="32"/>
+                    <w:szCs w:val="32"/>
+                    <w:highlight w:val="none"/>
+                    <w:lang w:val="en-US"/>
+                </w:rPr>
+            </w:pPr>
+            <w:bookmarkStart w:id="1" w:name="DDE_LINK7"/>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Courier New"
+                        w:eastAsia="Courier New"/>
+                    <w:b w:val="on"/>
+                    <w:i w:val="off"/>
+                    <w:sz w:val="32"/>
+                    <w:szCs w:val="32"/>
+                    <w:highlight w:val="none"/>
+                    <w:lang w:val="en-US"/>
+                </w:rPr>
+                <w:t xml:space="preserve">OASIS Broadens PKI Agenda to Form </w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Courier New"
+                        w:eastAsia="Courier New"/>
+                    <w:b w:val="on"/>
+                    <w:i w:val="off"/>
+                    <w:sz w:val="32"/>
+                    <w:szCs w:val="32"/>
+                    <w:highlight w:val="none"/>
+                    <w:lang w:val="en-US"/>
+                </w:rPr>
+                <w:br/>
+                <w:t/>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Courier New"
+                        w:eastAsia="Courier New"/>
+                    <w:b w:val="on"/>
+                    <w:i w:val="off"/>
+                    <w:sz w:val="32"/>
+                    <w:szCs w:val="32"/>
+                    <w:highlight w:val="none"/>
+                    <w:lang w:val="en-US"/>
+                </w:rPr>
+                <w:t xml:space="preserve">Identity and Trusted Infrastructure (IDtrust) Member Section </w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Courier New"
+                        w:eastAsia="Courier New"/>
+                    <w:b w:val="on"/>
+                    <w:i w:val="off"/>
+                    <w:sz w:val="32"/>
+                    <w:szCs w:val="32"/>
+                    <w:highlight w:val="none"/>
+                    <w:lang w:val="en-US"/>
+                </w:rPr>
+                <w:t xml:space="preserve">  </w:t>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="Text_20_body"/>
+                <w:outlineLvl w:val="9"/>
+            </w:pPr>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="Text_20_body"/>
+                <w:widowControl w:val="off"/>
+                <w:suppressAutoHyphens w:val="true"/>
+                <w:spacing w:lineRule="auto" w:line="360" w:after="0" w:before="0"/>
+                <w:outlineLvl w:val="9"/>
+                <w:rPr>
+                    <w:lang w:val="en-US"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:i w:val="on"/>
+                    <w:lang w:val="en-US"/>
+                </w:rPr>
+                <w:t xml:space="preserve">Boston, MA, USA; 24 May 2007</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:lang w:val="en-US"/>
+                </w:rPr>
+                <w:t xml:space="preserve"> -- The international open standards consortium, OASIS, has expanded its Public Key Infrastructure (PKI) work to encompass the full identity and trusted infrastructure marketplace. The new OASIS IDtrust Member Section will promote greater understanding and use of standards-based technologies, policies, and practices for identity and trusted infrastructure. The group will provide a neutral setting where government agencies, companies, research institutes, and individuals can work together to facilitate the use of </w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:lang w:val="en-US"/>
+                </w:rPr>
+                <w:br/>
+                <w:t/>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:lang w:val="en-US"/>
+                </w:rPr>
+                <w:t xml:space="preserve">these technologies.</w:t>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="Text_20_body"/>
+                <w:widowControl w:val="off"/>
+                <w:suppressAutoHyphens w:val="true"/>
+                <w:spacing w:lineRule="auto" w:line="360" w:after="0" w:before="0"/>
+                <w:outlineLvl w:val="9"/>
+                <w:rPr>
+                    <w:lang w:val="en-US"/>
+                </w:rPr>
+            </w:pPr>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="Standard"/>
+                <w:widowControl w:val="off"/>
+                <w:suppressAutoHyphens w:val="true"/>
+                <w:spacing w:lineRule="auto" w:line="360" w:after="0" w:before="0"/>
+                <w:outlineLvl w:val="9"/>
+                <w:rPr>
+                    <w:lang w:val="en-US"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:lang w:val="en-US"/>
+                </w:rPr>
+                <w:t xml:space="preserve">“The U.S. federal government has been working for years to develop standards, procedures and guidelines for implementing e-identity management services that can ensure trusted, secure transactions over the Internet. IDtrust will help accomplish that mission,” said Peter Alterman, Ph.D., Asst. CIO, EAuthentication, National Institutes of Health, and Federal PKI Policy </w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:lang w:val="en-US"/>
+                </w:rPr>
+                <w:br/>
+                <w:t/>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:lang w:val="en-US"/>
+                </w:rPr>
+                <w:t xml:space="preserve">Authority Chair.</w:t>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="Standard"/>
+                <w:widowControl w:val="off"/>
+                <w:suppressAutoHyphens w:val="true"/>
+                <w:spacing w:lineRule="auto" w:line="360" w:after="0" w:before="0"/>
+                <w:outlineLvl w:val="9"/>
+                <w:rPr>
+                    <w:lang w:val="en-US"/>
+                </w:rPr>
+            </w:pPr>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="Text_20_body"/>
+                <w:widowControl w:val="off"/>
+                <w:suppressAutoHyphens w:val="true"/>
+                <w:spacing w:lineRule="auto" w:line="360" w:after="0" w:before="0"/>
+                <w:outlineLvl w:val="9"/>
+                <w:rPr>
+                    <w:lang w:val="en-US"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:lang w:val="en-US"/>
+                </w:rPr>
+                <w:t xml:space="preserve">“IDtrust will advance standards that provide the basic security necessary for carrying out electronic business,” added June Leung, chair of the Steering Committee for the OASIS IDtrust Member Section. “These standards make it possible for parties who do not know one another or who are widely distributed to communicate securely by adopting a chain of trust.”</w:t>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="Text_20_body"/>
+                <w:widowControl w:val="off"/>
+                <w:suppressAutoHyphens w:val="true"/>
+                <w:spacing w:lineRule="auto" w:line="360" w:after="0" w:before="0"/>
+                <w:outlineLvl w:val="9"/>
+                <w:rPr>
+                    <w:lang w:val="en-US"/>
+                </w:rPr>
+            </w:pPr>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="Standard"/>
+                <w:widowControl w:val="off"/>
+                <w:suppressAutoHyphens w:val="true"/>
+                <w:spacing w:lineRule="auto" w:line="360" w:after="0" w:before="0"/>
+                <w:outlineLvl w:val="9"/>
+                <w:rPr>
+                    <w:lang w:val="en-US"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:lang w:val="en-US"/>
+                </w:rPr>
+                <w:t xml:space="preserve">Other members of the IDtrust Member Section Steering Committee include Abbie Barbir of Nortel Networks, Arshad Noor, John Sabo of CA, and Ann Terwilliger of Visa International. </w:t>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="Text_20_body"/>
+                <w:widowControl w:val="off"/>
+                <w:suppressAutoHyphens w:val="true"/>
+                <w:spacing w:lineRule="auto" w:line="360" w:after="0" w:before="0"/>
+                <w:outlineLvl w:val="9"/>
+                <w:rPr>
+                    <w:lang w:val="en-US"/>
+                </w:rPr>
+            </w:pPr>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="Standard"/>
+                <w:widowControl w:val="off"/>
+                <w:suppressAutoHyphens w:val="true"/>
+                <w:spacing w:lineRule="auto" w:line="360" w:after="0" w:before="0"/>
+                <w:outlineLvl w:val="9"/>
+                <w:rPr>
+                    <w:lang w:val="en-US"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:lang w:val="en-US"/>
+                </w:rPr>
+                <w:t xml:space="preserve">Working to identify trust policies for assurance and standardization, IDtrust members will focus on validating and building trust paths. They plan to catalog implementation projects, publish adoption reports, and conduct studies on costs, benefits and risk management. The Member Section will also oversee the work of two OASIS Committees: </w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:lang w:val="en-US"/>
+                </w:rPr>
+                <w:t xml:space="preserve"> </w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:lang w:val="en-US"/>
+                </w:rPr>
+                <w:t xml:space="preserve">Enterprise Key Management Infrastructure (EKMI), which defines symmetric key management protocols; and PKI Adoption, which advances the use </w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:lang w:val="en-US"/>
+                </w:rPr>
+                <w:br/>
+                <w:t/>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:lang w:val="en-US"/>
+                </w:rPr>
+                <w:t xml:space="preserve">of digital certificates as a foundation for managing access to network resources and conducting electronic transactions. The Steering Committee seeks suggestions for forming additional committees.</w:t>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="Text_20_body"/>
+                <w:widowControl w:val="off"/>
+                <w:suppressAutoHyphens w:val="true"/>
+                <w:spacing w:lineRule="auto" w:line="360" w:after="0" w:before="0"/>
+                <w:outlineLvl w:val="9"/>
+                <w:rPr>
+                    <w:lang w:val="en-US"/>
+                </w:rPr>
+            </w:pPr>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="Text_20_body"/>
+                <w:widowControl w:val="off"/>
+                <w:suppressAutoHyphens w:val="true"/>
+                <w:spacing w:lineRule="auto" w:line="360" w:after="0" w:before="0"/>
+                <w:outlineLvl w:val="9"/>
+                <w:rPr>
+                    <w:lang w:val="en-US"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:lang w:val="en-US"/>
+                </w:rPr>
+                <w:t xml:space="preserve">IDtrust has its roots in PKI Forum, an organization that was founded in 1999. It transitioned its work to OASIS in 2002, where it continued to operate as an independent body focused on broadening adoption for PKI. </w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:lang w:val="en-US"/>
+                </w:rPr>
+                <w:t xml:space="preserve"> </w:t>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="Text_20_body"/>
+                <w:widowControl w:val="off"/>
+                <w:suppressAutoHyphens w:val="true"/>
+                <w:spacing w:lineRule="auto" w:line="360" w:after="0" w:before="0"/>
+                <w:outlineLvl w:val="9"/>
+                <w:rPr>
+                    <w:lang w:val="en-US"/>
+                </w:rPr>
+            </w:pPr>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="Text_20_body"/>
+                <w:widowControl w:val="off"/>
+                <w:suppressAutoHyphens w:val="true"/>
+                <w:spacing w:lineRule="auto" w:line="360" w:after="0" w:before="0"/>
+                <w:outlineLvl w:val="9"/>
+                <w:rPr>
+                    <w:lang w:val="en-US"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:lang w:val="en-US"/>
+                </w:rPr>
+                <w:t xml:space="preserve">“The expansion and re-chartering of OASIS PKI as IDtrust marks an exciting milestone in the evolution of this work,” noted Patrick Gannon, president and CEO of OASIS. “By broadening its scope, IDtrust will be better positioned to reduce barriers to adoption and effectively address data </w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+                    <w:sz w:val="24"/>
+                    <w:szCs w:val="24"/>
+                    <w:lang w:val="en-US"/>
+                </w:rPr>
+                <w:t xml:space="preserve">privacy and cryptographic issues, as well as interoperability, outsourcing and application integration </w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Courier New"
+                        w:eastAsia="Courier New"/>
+                    <w:sz w:val="24"/>
+                    <w:szCs w:val="24"/>
+                    <w:lang w:val="en-US"/>
+                </w:rPr>
+                <w:t xml:space="preserve">of trusted infrastructures</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+                    <w:sz w:val="24"/>
+                    <w:szCs w:val="24"/>
+                    <w:lang w:val="en-US"/>
+                </w:rPr>
+                <w:t xml:space="preserve">.”</w:t>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="Text_20_body"/>
+                <w:widowControl w:val="off"/>
+                <w:suppressAutoHyphens w:val="true"/>
+                <w:spacing w:lineRule="auto" w:line="360" w:after="0" w:before="0"/>
+                <w:outlineLvl w:val="9"/>
+                <w:rPr>
+                    <w:lang w:val="en-US"/>
+                </w:rPr>
+            </w:pPr>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="Standard"/>
+                <w:widowControl w:val="off"/>
+                <w:suppressAutoHyphens w:val="true"/>
+                <w:spacing w:lineRule="auto" w:line="360" w:after="0" w:before="0"/>
+                <w:outlineLvl w:val="9"/>
+                <w:rPr>
+                    <w:lang w:val="en-US"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:lang w:val="en-US"/>
+                </w:rPr>
+                <w:t xml:space="preserve">Organizations participating in IDtrust include CA, CATCert Agencia Catalana de Certificacio, EMC, Forum Systems, Jericho Systems, Nortel Networks, Sterling Commerce, Verisign, Visa International, WISeKey, and others. Public sector agencies from around the world, including Canada's Public Works &amp; Government Services, Norway's Directorate of Labour and Welfare, and Tunisia's National Digital Certification Agency--as well as the Electronics and Telecommunications Research Institute (ETRI) and Oxford University--are also participating. IDtrust welcomes other interested parties to join their work at any time.</w:t>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="Text_20_body"/>
+                <w:widowControl w:val="off"/>
+                <w:suppressAutoHyphens w:val="true"/>
+                <w:spacing w:lineRule="auto" w:line="360" w:after="0" w:before="0"/>
+                <w:outlineLvl w:val="9"/>
+                <w:rPr>
+                    <w:lang w:val="en-US"/>
+                </w:rPr>
+            </w:pPr>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="Standard"/>
+                <w:widowControl w:val="off"/>
+                <w:suppressAutoHyphens w:val="true"/>
+                <w:autoSpaceDN w:val="off"/>
+                <w:spacing w:lineRule="auto" w:line="360" w:after="0" w:before="0"/>
+                <w:outlineLvl w:val="9"/>
+                <w:rPr>
+                    <w:b w:val="on"/>
+                    <w:lang w:val="en-US"/>
+                </w:rPr>
+            </w:pPr>
+            <w:bookmarkStart w:id="2" w:name="DDE_LINK4"/>
+            <w:bookmarkStart w:id="3" w:name="DDE_LINK5"/>
+            <w:bookmarkStart w:id="4" w:name="DDE_LINK1"/>
+            <w:bookmarkStart w:id="5" w:name="DDE_LINK2"/>
+            <w:bookmarkStart w:id="6" w:name="DDE_LINK3"/>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="Text_20_body"/>
+                <w:widowControl w:val="off"/>
+                <w:suppressAutoHyphens w:val="true"/>
+                <w:spacing w:lineRule="auto" w:line="360" w:after="0" w:before="0"/>
+                <w:outlineLvl w:val="9"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial Black" w:hAnsi="Arial Black"/>
+                    <w:b w:val="off"/>
+                    <w:sz w:val="20"/>
+                    <w:szCs w:val="20"/>
+                    <w:lang w:val="en-US"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial Black" w:hAnsi="Arial Black"/>
+                    <w:b w:val="off"/>
+                    <w:sz w:val="20"/>
+                    <w:szCs w:val="20"/>
+                    <w:lang w:val="en-US"/>
+                </w:rPr>
+                <w:t xml:space="preserve">Support for IDtrust</w:t>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="Standard"/>
+                <w:suppressAutoHyphens w:val="true"/>
+                <w:outlineLvl w:val="9"/>
+                <w:rPr>
+                    <w:i w:val="on"/>
+                    <w:lang w:val="en-US"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:i w:val="on"/>
+                    <w:lang w:val="en-US"/>
+                </w:rPr>
+                <w:t xml:space="preserve">CA</w:t>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="Standard"/>
+                <w:outlineLvl w:val="9"/>
+            </w:pPr>
+            <w:r>
+                <w:t xml:space="preserve">“CA is pleased to support the formation of the IDtrust Member Section. Its broad focus on identity technologies, trust policies, and education will help meet the growing need for open, standards-based trust infrastructure,” said John Sabo, director of government global relations at CA.</w:t>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="Standard"/>
+                <w:outlineLvl w:val="9"/>
+            </w:pPr>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="Standard"/>
+                <w:suppressAutoHyphens w:val="true"/>
+                <w:outlineLvl w:val="9"/>
+                <w:rPr>
+                    <w:i w:val="on"/>
+                    <w:lang w:val="en-US"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:i w:val="on"/>
+                    <w:lang w:val="en-US"/>
+                </w:rPr>
+                <w:t xml:space="preserve">Visa</w:t>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="Standard"/>
+                <w:outlineLvl w:val="9"/>
+            </w:pPr>
+            <w:r>
+                <w:t xml:space="preserve">“My experiences in implementing public key cryptography at Visa have made me very aware of the importance of identifying workable solutions. I am committed to supporting the work of IDtrust to achieve this,” said Ann Tertwilliger, Director of Security Projects, Visa International.</w:t>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="Text_20_body"/>
+                <w:outlineLvl w:val="9"/>
+            </w:pPr>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="Text_20_body"/>
+                <w:outlineLvl w:val="9"/>
+            </w:pPr>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="Text_20_body"/>
+                <w:widowControl w:val="off"/>
+                <w:suppressAutoHyphens w:val="true"/>
+                <w:spacing w:lineRule="auto" w:line="360" w:after="0" w:before="0"/>
+                <w:outlineLvl w:val="9"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial Black" w:hAnsi="Arial Black"/>
+                    <w:b w:val="off"/>
+                    <w:sz w:val="20"/>
+                    <w:szCs w:val="20"/>
+                    <w:lang w:val="en-US"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial Black" w:hAnsi="Arial Black"/>
+                    <w:b w:val="off"/>
+                    <w:sz w:val="20"/>
+                    <w:szCs w:val="20"/>
+                    <w:lang w:val="en-US"/>
+                </w:rPr>
+                <w:t xml:space="preserve">Additional information:</w:t>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="Text_20_body"/>
+                <w:widowControl w:val="off"/>
+                <w:suppressAutoHyphens w:val="true"/>
+                <w:spacing w:after="0" w:before="0"/>
+                <w:outlineLvl w:val="9"/>
+                <w:rPr>
+                    <w:lang w:val="en-US"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:lang w:val="en-US"/>
+                </w:rPr>
+                <w:t xml:space="preserve">OASIS IDtrust Member Section:</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:lang w:val="en-US"/>
+                </w:rPr>
+                <w:br/>
+                <w:t/>
+            </w:r>
+            <w:hyperlink r:id="ID0E4EAC" w:history="1">
+                <w:r>
+                    <w:rPr>
+                        <w:rStyle w:val="Hyperlink"/>
+                        <w:lang w:val="en-US"/>
+                    </w:rPr>
+                    <w:t xml:space="preserve">http://www.oasis-idtrust.org/</w:t>
+                </w:r>
+            </w:hyperlink>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="Text_20_body"/>
+                <w:widowControl w:val="off"/>
+                <w:suppressAutoHyphens w:val="true"/>
+                <w:spacing w:after="0" w:before="0"/>
+                <w:outlineLvl w:val="9"/>
+                <w:rPr>
+                    <w:lang w:val="en-US"/>
+                </w:rPr>
+            </w:pPr>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="Text_20_body"/>
+                <w:widowControl w:val="off"/>
+                <w:suppressAutoHyphens w:val="true"/>
+                <w:spacing w:after="0" w:before="0"/>
+                <w:outlineLvl w:val="9"/>
+                <w:rPr>
+                    <w:lang w:val="en-US"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:lang w:val="en-US"/>
+                </w:rPr>
+                <w:t xml:space="preserve">OASIS EKMI Technical Committee:</w:t>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="Text_20_body"/>
+                <w:widowControl w:val="off"/>
+                <w:suppressAutoHyphens w:val="true"/>
+                <w:spacing w:after="0" w:before="0"/>
+                <w:outlineLvl w:val="9"/>
+                <w:rPr>
+                    <w:lang w:val="en-US"/>
+                </w:rPr>
+            </w:pPr>
+            <w:hyperlink r:id="ID0EGFAC" w:history="1">
+                <w:r>
+                    <w:rPr>
+                        <w:rStyle w:val="Hyperlink"/>
+                        <w:lang w:val="en-US"/>
+                    </w:rPr>
+                    <w:t xml:space="preserve">http://www.oasis-open.org/committees/ekmi/</w:t>
+                </w:r>
+            </w:hyperlink>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="Text_20_body"/>
+                <w:widowControl w:val="off"/>
+                <w:suppressAutoHyphens w:val="true"/>
+                <w:spacing w:after="0" w:before="0"/>
+                <w:outlineLvl w:val="9"/>
+                <w:rPr>
+                    <w:lang w:val="en-US"/>
+                </w:rPr>
+            </w:pPr>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="Text_20_body"/>
+                <w:widowControl w:val="off"/>
+                <w:suppressAutoHyphens w:val="true"/>
+                <w:spacing w:after="0" w:before="0"/>
+                <w:outlineLvl w:val="9"/>
+                <w:rPr>
+                    <w:lang w:val="en-US"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:lang w:val="en-US"/>
+                </w:rPr>
+                <w:t xml:space="preserve">OASIS PKI Adoption Committee:</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:lang w:val="en-US"/>
+                </w:rPr>
+                <w:br/>
+                <w:t/>
+            </w:r>
+            <w:hyperlink r:id="ID0EPFAC" w:history="1">
+                <w:r>
+                    <w:rPr>
+                        <w:rStyle w:val="Hyperlink"/>
+                        <w:lang w:val="en-US"/>
+                    </w:rPr>
+                    <w:t xml:space="preserve">http://www.oasis-open.org/committees/pki/</w:t>
+                </w:r>
+            </w:hyperlink>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="Text_20_body"/>
+                <w:widowControl w:val="off"/>
+                <w:suppressAutoHyphens w:val="true"/>
+                <w:spacing w:after="0" w:before="0"/>
+                <w:outlineLvl w:val="9"/>
+                <w:rPr>
+                    <w:lang w:val="en-US"/>
+                </w:rPr>
+            </w:pPr>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="Standard"/>
+                <w:widowControl w:val="off"/>
+                <w:suppressAutoHyphens w:val="true"/>
+                <w:autoSpaceDN w:val="off"/>
+                <w:spacing w:lineRule="auto" w:line="240" w:after="0" w:before="0"/>
+                <w:outlineLvl w:val="9"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="Courier New" w:hAnsi="Courier New" w:cs="Courier New"
+                        w:eastAsia="Courier New"/>
+                    <w:sz w:val="20"/>
+                    <w:szCs w:val="20"/>
+                    <w:lang w:val="en-US"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Courier New" w:hAnsi="Courier New" w:cs="Courier New"
+                        w:eastAsia="Courier New"/>
+                    <w:sz w:val="20"/>
+                    <w:szCs w:val="20"/>
+                    <w:lang w:val="en-US"/>
+                </w:rPr>
+                <w:br/>
+                <w:t/>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="Text_20_body"/>
+                <w:widowControl w:val="off"/>
+                <w:suppressAutoHyphens w:val="true"/>
+                <w:spacing w:lineRule="auto" w:line="360" w:after="0" w:before="0"/>
+                <w:outlineLvl w:val="9"/>
+                <w:rPr>
+                    <w:lang w:val="en-US"/>
+                </w:rPr>
+            </w:pPr>
+            <w:hyperlink r:id="ID0EZFAC" w:history="1">
+                <w:r>
+                    <w:rPr>
+                        <w:rStyle w:val="Hyperlink"/>
+                        <w:rFonts w:ascii="Arial Black" w:hAnsi="Arial Black"/>
+                        <w:color w:val="000000"/>
+                        <w:sz w:val="20"/>
+                        <w:u w:val="none"/>
+                        <w:lang w:val="en-US"/>
+                    </w:rPr>
+                    <w:t xml:space="preserve">About OASIS:</w:t>
+                </w:r>
+            </w:hyperlink>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="Text_20_body"/>
+                <w:widowControl w:val="off"/>
+                <w:suppressAutoHyphens w:val="true"/>
+                <w:spacing w:lineRule="auto" w:line="240" w:after="0" w:before="0"/>
+                <w:outlineLvl w:val="9"/>
+                <w:rPr>
+                    <w:lang w:val="en-US"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:lang w:val="en-US"/>
+                </w:rPr>
+                <w:t xml:space="preserve">OASIS (Organization for the Advancement of Structured Information Standards) is a not-for-profit, international consortium that drives the development, convergence, and adoption of e-business standards. Members themselves set the OASIS technical agenda, using a lightweight, open process expressly designed to promote industry consensus and unite disparate efforts. The consortium produces open standards for Web services, security, e-business, and standardization efforts in the public sector and for application-specific markets. Founded in 1993, OASIS has more than 5,000 participants representing over 600 organizations and individual members in 100 countries. </w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:lang w:val="en-US"/>
+                </w:rPr>
+                <w:t xml:space="preserve"> </w:t>
+            </w:r>
+            <w:hyperlink r:id="ID0ECGAC" w:history="1">
+                <w:r>
+                    <w:rPr>
+                        <w:rStyle w:val="Hyperlink"/>
+                        <w:lang w:val="en-US"/>
+                    </w:rPr>
+                    <w:t xml:space="preserve">http://www.oasis-open.org</w:t>
+                </w:r>
+            </w:hyperlink>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="Text_20_body"/>
+                <w:widowControl w:val="off"/>
+                <w:suppressAutoHyphens w:val="true"/>
+                <w:spacing w:lineRule="auto" w:line="240" w:after="0" w:before="0"/>
+                <w:outlineLvl w:val="9"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial Black" w:hAnsi="Arial Black"/>
+                    <w:sz w:val="20"/>
+                    <w:lang w:val="en-US"/>
+                </w:rPr>
+            </w:pPr>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="Text_20_body"/>
+                <w:widowControl w:val="off"/>
+                <w:suppressAutoHyphens w:val="true"/>
+                <w:spacing w:lineRule="auto" w:line="240" w:after="0" w:before="0"/>
+                <w:outlineLvl w:val="9"/>
+                <w:rPr>
+                    <w:lang w:val="en-US"/>
+                </w:rPr>
+            </w:pPr>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="Text_20_body"/>
+                <w:widowControl w:val="off"/>
+                <w:suppressAutoHyphens w:val="true"/>
+                <w:spacing w:lineRule="auto" w:line="240" w:after="0" w:before="0"/>
+                <w:outlineLvl w:val="9"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial Black" w:hAnsi="Arial Black"/>
+                    <w:sz w:val="20"/>
+                    <w:lang w:val="en-US"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Arial Black" w:hAnsi="Arial Black"/>
+                    <w:sz w:val="20"/>
+                    <w:lang w:val="en-US"/>
+                </w:rPr>
+                <w:t xml:space="preserve">Press contact:</w:t>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="Text_20_body"/>
+                <w:widowControl w:val="off"/>
+                <w:suppressAutoHyphens w:val="true"/>
+                <w:spacing w:lineRule="auto" w:line="240" w:after="0" w:before="0"/>
+                <w:outlineLvl w:val="9"/>
+                <w:rPr>
+                    <w:lang w:val="en-US"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:lang w:val="en-US"/>
+                </w:rPr>
+                <w:t xml:space="preserve">Carol Geyer</w:t>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="Text_20_body"/>
+                <w:widowControl w:val="off"/>
+                <w:suppressAutoHyphens w:val="true"/>
+                <w:spacing w:lineRule="auto" w:line="240" w:after="0" w:before="0"/>
+                <w:outlineLvl w:val="9"/>
+                <w:rPr>
+                    <w:lang w:val="en-US"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:lang w:val="en-US"/>
+                </w:rPr>
+                <w:t xml:space="preserve">OASIS Director of Communications</w:t>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="Text_20_body"/>
+                <w:widowControl w:val="off"/>
+                <w:suppressAutoHyphens w:val="true"/>
+                <w:spacing w:lineRule="auto" w:line="240" w:after="0" w:before="0"/>
+                <w:outlineLvl w:val="9"/>
+                <w:rPr>
+                    <w:lang w:val="en-US"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:lang w:val="en-US"/>
+                </w:rPr>
+                <w:t xml:space="preserve">carol.geyer@oasis-open.org</w:t>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="Text_20_body"/>
+                <w:widowControl w:val="off"/>
+                <w:suppressAutoHyphens w:val="true"/>
+                <w:spacing w:lineRule="auto" w:line="240" w:after="0" w:before="0"/>
+                <w:outlineLvl w:val="9"/>
+                <w:rPr>
+                    <w:lang w:val="en-US"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:lang w:val="en-US"/>
+                </w:rPr>
+                <w:t xml:space="preserve">+1.978.667.5115 x209 (office)</w:t>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="Text_20_body"/>
+                <w:widowControl w:val="off"/>
+                <w:suppressAutoHyphens w:val="true"/>
+                <w:spacing w:lineRule="auto" w:line="240" w:after="0" w:before="0"/>
+                <w:outlineLvl w:val="9"/>
+                <w:rPr>
+                    <w:lang w:val="en-US"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:lang w:val="en-US"/>
+                </w:rPr>
+                <w:t xml:space="preserve">+1.941.284.0403 (mobile)</w:t>
+            </w:r>
+            <w:bookmarkEnd w:id="0"/>
+            <w:bookmarkEnd w:id="1"/>
+            <w:bookmarkEnd w:id="2"/>
+            <w:bookmarkEnd w:id="3"/>
+            <w:bookmarkEnd w:id="4"/>
+            <w:bookmarkEnd w:id="5"/>
+            <w:bookmarkEnd w:id="6"/>
+        </w:p>
+        <w:sectPr>
+            <w:footnotePr>
+                <w:pos w:val="pageBottom"/>
+                <w:numFmt w:val="decimal"/>
+                <w:numStart w:val="1"/>
+                <w:numRestart w:val="continuous"/>
+            </w:footnotePr>
+            <w:endnotePr>
+                <w:pos w:val="docEnd"/>
+                <w:numFmt w:val="lowerRoman"/>
+                <w:numStart w:val="1"/>
+            </w:endnotePr>
+            <w:pgSz w:orient="portrait" w:w="11905" w:h="16837"/>
+            <w:pgMar w:top="1134" w:left="1134" w:bottom="2160" w:right="1134" w:header="1134"
+                w:footer="2160" w:gutter="0"/>
+        </w:sectPr>
+    </w:body>
+</w:document>

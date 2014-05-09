@@ -1,0 +1,80 @@
+
+.pt-Normal{
+	margin-bottom:10pt;
+	line-height:120%;
+	font-weight:normal;
+	font-family:'Calibri';
+	font-style:italic;
+	font-size:14pt;
+	margin-top:0pt;
+	margin-left:0pt;
+	margin-right:0pt;
+}
+.pt-DefaultParagraphFont{
+	font-family:'Bookman Old Style','serif';
+	font-style:normal;
+	font-size:14pt;
+	margin-top:0pt;
+	margin-bottom:0pt;
+	margin-left:0pt;
+	margin-right:0pt;
+}
+.pt-Normal-000001{
+	margin-bottom:10pt;
+	line-height:120%;
+	font-weight:normal;
+	font-family:'Calibri';
+	font-style:italic;
+	font-size:13pt;
+	margin-top:0pt;
+	margin-left:0pt;
+	margin-right:0pt;
+}
+.pt-DefaultParagraphFont-000001{
+	font-family:'Arial Narrow','sans-serif';
+	font-style:normal;
+	font-size:13pt;
+	margin-top:0pt;
+	margin-bottom:0pt;
+	margin-left:0pt;
+	margin-right:0pt;
+}
+.pt-Normal-000002{
+	margin-bottom:10pt;
+	line-height:120%;
+	font-weight:normal;
+	font-family:'Calibri';
+	font-style:italic;
+	font-size:13pt;
+	margin-top:0pt;
+	margin-left:0pt;
+	margin-right:0pt;
+}
+.pt-DefaultParagraphFont-000002{
+	font-family:'Courier New';
+	font-size:13pt;
+	margin-top:0pt;
+	margin-bottom:0pt;
+	margin-left:0pt;
+	margin-right:0pt;
+}
+.pt-Normal-000003{
+	margin-bottom:10pt;
+	line-height:120%;
+	font-weight:normal;
+	font-family:'Calibri';
+	font-style:italic;
+	font-size:20pt;
+	margin-top:0pt;
+	margin-left:0pt;
+	margin-right:0pt;
+}
+.pt-DefaultParagraphFont-000003{
+	font-weight:bold;
+	font-style:normal;
+	font-size:20pt;
+	margin-top:0pt;
+	margin-bottom:0pt;
+	margin-left:0pt;
+	margin-right:0pt;
+}

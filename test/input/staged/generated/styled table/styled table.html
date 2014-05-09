@@ -1,0 +1,1337 @@
+﻿<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <meta name="Generator" content="PowerTools for Open XML" />
+        <title>Open XML Format Compatibility Primer</title>
+        <style>
+            p.pt-Bodytext{
+                line-height:150.0%;
+                margin-bottom:6pt;
+                font-family:'Verdana', 'sans-serif';
+                font-size:10pt;
+                margin-top:0pt;
+                margin-left:0pt;
+                margin-right:0pt;
+            }
+            span.pt-DefaultParagraphFont{
+                color:#000000;
+                font-size:10pt;
+                font-weight:normal;
+                margin:0in;
+                padding:0in;
+            }
+            span.pt-000000{
+                color:#000000;
+                font-size:10pt;
+                font-weight:normal;
+                margin:0in;
+                padding:0in;
+            }
+            p.pt-TOCHeading1{
+                line-height:115.0%;
+                margin-bottom:12pt;
+                font-family:'Verdana', 'sans-serif';
+                font-size:16pt;
+                margin-top:0pt;
+                margin-left:0pt;
+                margin-right:0pt;
+            }
+            span.pt-DefaultParagraphFont-000001{
+                font-family:'Verdana', 'sans-serif';
+                font-size:16pt;
+                font-weight:bold;
+                margin:0in;
+                padding:0in;
+            }
+            p.pt-TOCHeading1-000002{
+                line-height:115.0%;
+                margin-bottom:12pt;
+                text-align:center;
+                font-family:'Verdana', 'sans-serif';
+                font-size:16pt;
+                margin-top:0pt;
+                margin-left:0pt;
+                margin-right:0pt;
+            }
+            span.pt-000003{
+                font-size:16pt;
+                font-weight:bold;
+                margin:0in;
+                padding:0in;
+            }
+            p.pt-TOCHeading1-000004{
+                line-height:115.0%;
+                margin-bottom:12pt;
+                text-align:center;
+                font-family:'Cambria', 'serif';
+                font-size:16pt;
+                margin-top:0pt;
+                margin-left:0pt;
+                margin-right:0pt;
+            }
+            span.pt-DefaultParagraphFont-000005{
+                font-family:'Cambria', 'serif';
+                font-size:16pt;
+                font-weight:bold;
+                margin:0in;
+                padding:0in;
+            }
+            p.pt-TOC1{
+                margin-top:12pt;
+                line-height:115.0%;
+                margin-bottom:0pt;
+                margin-right:-0.01in;
+                font-family:Calibri;
+                font-size:11pt;
+                margin-left:0pt;
+            }
+            span.pt-DefaultParagraphFont-000006{
+                color:#000000;
+                font-size:9pt;
+                font-weight:bold;
+                margin:0in;
+                padding:0in;
+            }
+            A.pt-000007{
+                text-decoration:none;
+            }
+            span.pt-Hyperlink{
+                color:#0000FF;
+                font-family:'Cambria', 'serif';
+                font-size:9pt;
+                text-decoration:underline;
+                font-weight:bold;
+                margin:0in;
+                padding:0in;
+            }
+            p.pt-TOC3{
+                line-height:115.0%;
+                margin-bottom:0pt;
+                margin-left:0.00in;
+                margin-right:0.43in;
+                font-family:Calibri;
+                font-size:11pt;
+                margin-top:0pt;
+            }
+            span.pt-Hyperlink-000008{
+                color:#0000FF;
+                font-family:'Cambria', 'serif';
+                font-size:9pt;
+                text-decoration:underline;
+                font-weight:normal;
+                margin:0in;
+                padding:0in;
+            }
+            p.pt-TOC2{
+                line-height:115.0%;
+                margin-bottom:0pt;
+                margin-left:0.00in;
+                margin-right:0.43in;
+                font-family:Calibri;
+                font-size:11pt;
+                margin-top:0pt;
+            }
+            p.pt-Normal{
+                line-height:115.0%;
+                margin-bottom:0pt;
+                margin-right:0.93in;
+                font-family:Calibri;
+                font-size:10pt;
+                margin-top:0pt;
+                margin-left:0pt;
+            }
+            span.pt-DefaultParagraphFont-000009{
+                font-size:9pt;
+                font-weight:normal;
+                margin:0in;
+                padding:0in;
+            }
+            span.pt-000010{
+                font-size:10pt;
+                font-weight:normal;
+                margin:0in;
+                padding:0in;
+            }
+            p.pt-Bodytext-000011{
+                line-height:150.0%;
+                margin-bottom:6pt;
+                font-family:Calibri;
+                font-size:10pt;
+                margin-top:0pt;
+                margin-left:0pt;
+                margin-right:0pt;
+            }
+            p.pt-Normal-000012{
+                line-height:115.0%;
+                margin-bottom:0pt;
+                font-family:Segoe Black;
+                font-size:10pt;
+                margin-top:0pt;
+                margin-left:0pt;
+                margin-right:0pt;
+            }
+            span.pt-PageNumber{
+                font-size:10pt;
+                font-weight:normal;
+                margin:0in;
+                padding:0in;
+            }
+            span.pt-000013{
+                color:#FF6600;
+                font-size:10pt;
+                font-weight:normal;
+                margin:0in;
+                padding:0in;
+            }
+            h2.pt-Heading2{
+                margin-top:18pt;
+                margin-bottom:6pt;
+                font-family:'Cambria', 'serif';
+                font-size:10pt;
+                margin-left:0pt;
+                margin-right:0pt;
+            }
+            span.pt-000014{
+                color:#FF6600;
+                font-size:10pt;
+                font-weight:bold;
+                margin:0in;
+                padding:0in;
+            }
+            h1.pt-Heading1{
+                margin-top:12pt;
+                line-height:150.0%;
+                margin-bottom:3pt;
+                margin-left:-0.50in;
+                font-family:'Cambria', 'serif';
+                font-size:14pt;
+                margin-right:0pt;
+            }
+            span.pt-PageNumber-000015{
+                font-family:'Cambria', 'serif';
+                font-size:14pt;
+                font-weight:normal;
+                margin:0in;
+                padding:0in;
+            }
+            p.pt-Normal-000016{
+                line-height:115.0%;
+                margin-bottom:12pt;
+                font-family:Calibri;
+                font-size:10pt;
+                margin-top:0pt;
+                margin-left:0pt;
+                margin-right:0pt;
+            }
+            span.pt-DefaultParagraphFont-000017{
+                font-family:Calibri;
+                font-size:10pt;
+                font-weight:normal;
+                margin:0in;
+                padding:0in;
+            }
+            span.pt-DefaultParagraphFont-000018{
+                color:#FF6600;
+                font-size:10pt;
+                font-weight:bold;
+                margin:0in;
+                padding:0in;
+            }
+            h3.pt-Heading3{
+                margin-top:6pt;
+                margin-bottom:6pt;
+                font-family:Calibri;
+                font-size:10pt;
+                margin-left:0pt;
+                margin-right:0pt;
+            }
+            span.pt-DefaultParagraphFont-000019{
+                color:#auto;
+                font-family:Calibri;
+                font-size:10pt;
+                font-weight:bold;
+                margin:0in;
+                padding:0in;
+            }
+            p.pt-Text{
+                margin-top:6pt;
+                line-height:150.0%;
+                margin-bottom:6pt;
+                font-family:Calibri;
+                font-size:8pt;
+                margin-left:0pt;
+                margin-right:0pt;
+            }
+            span.pt-DefaultParagraphFont-000020{
+                color:#000000;
+                font-family:Calibri;
+                font-size:8pt;
+                font-weight:normal;
+                margin:0in;
+                padding:0in;
+            }
+            p.pt-Text-000021{
+                margin-top:12pt;
+                line-height:13.0pt;
+                margin-bottom:6pt;
+                font-family:Calibri;
+                font-size:8pt;
+                margin-left:0pt;
+                margin-right:0pt;
+            }
+            span.pt-000022{
+                color:#000000;
+                font-size:8pt;
+                font-weight:normal;
+                margin:0in;
+                padding:0in;
+            }
+            span.pt-DefaultParagraphFont-000023{
+                font-family:'Cambria', 'serif';
+                font-size:14pt;
+                font-weight:normal;
+                margin:0in;
+                padding:0in;
+            }
+            p.pt-Body{
+                line-height:115.0%;
+                margin-bottom:12pt;
+                font-family:Calibri;
+                font-size:10pt;
+                margin-top:0pt;
+                margin-left:0pt;
+                margin-right:0pt;
+            }
+            table.pt-000024{
+                border-collapse:collapse;
+                border:none;
+            }
+            tr.pt-000025{
+                height:0.26875in;
+            }
+            td.pt-000026{
+                vertical-align:middle;
+                width:339.7pt;
+                border-top:none;
+                border-right:none;
+                padding-right:5.4pt;
+                border-bottom:none;
+                border-left:none;
+                padding-left:5.4pt;
+                background:#DBE5F1;
+            }
+            h7.pt-Heading7{
+                margin-top:0pt;
+                line-height:115.0%;
+                margin-bottom:0pt;
+                font-family:Calibri;
+                font-size:8pt;
+                margin-left:0pt;
+                margin-right:0pt;
+            }
+            span.pt-DefaultParagraphFont-000027{
+                color:#000000;
+                font-family:Calibri;
+                font-size:8pt;
+                font-weight:bold;
+                margin:0in;
+                padding:0in;
+            }
+            td.pt-000028{
+                vertical-align:top;
+                width:124.7pt;
+                border-top:none;
+                border-right:none;
+                padding-right:5.4pt;
+                border-bottom:none;
+                border-left:none;
+                padding-left:5.4pt;
+                background:#DBE5F1;
+            }
+            h7.pt-Heading7-000029{
+                margin-top:12pt;
+                line-height:115.0%;
+                margin-bottom:3pt;
+                font-family:Calibri;
+                font-size:8pt;
+                margin-left:0pt;
+                margin-right:0pt;
+            }
+            tr.pt-000030{
+                height:0.2in;
+            }
+            td.pt-000031{
+                vertical-align:top;
+                width:48.75pt;
+                border-top:none;
+                border-right:none;
+                padding-right:5.4pt;
+                border-bottom:none;
+                border-left:none;
+                padding-left:5.4pt;
+                background:#EDF2F8;
+            }
+            p.pt-Normal-000032{
+                margin-top:5pt;
+                line-height:115.0%;
+                margin-bottom:5pt;
+                font-family:Calibri;
+                font-size:8pt;
+                margin-left:0pt;
+                margin-right:0pt;
+            }
+            span.pt-DefaultParagraphFont-000033{
+                color:#BA1419;
+                font-family:Calibri;
+                font-size:8pt;
+                font-weight:normal;
+                margin:0in;
+                padding:0in;
+            }
+            td.pt-000034{
+                vertical-align:top;
+                width:244.65pt;
+                border-top:none;
+                border-right:none;
+                padding-right:5.4pt;
+                border-bottom:none;
+                border-left:none;
+                padding-left:5.4pt;
+                background:#EDF2F8;
+            }
+            td.pt-000035{
+                vertical-align:top;
+                width:46.3pt;
+                border-top:none;
+                border-right:none;
+                padding-right:5.4pt;
+                border-bottom:none;
+                border-left:none;
+                padding-left:5.4pt;
+                background:#EDF2F8;
+            }
+            td.pt-000036{
+                vertical-align:top;
+                width:124.7pt;
+                border-top:none;
+                border-right:none;
+                padding-right:5.4pt;
+                border-bottom:none;
+                border-left:none;
+                padding-left:5.4pt;
+                background:#EDF2F8;
+            }
+            td.pt-000037{
+                vertical-align:top;
+                width:48.75pt;
+                border-top:none;
+                border-right:none;
+                padding-right:5.4pt;
+                border-bottom:none;
+                border-left:none;
+                padding-left:5.4pt;
+                background:#DBE5F1;
+            }
+            td.pt-000038{
+                vertical-align:top;
+                width:244.65pt;
+                border-top:none;
+                border-right:none;
+                padding-right:5.4pt;
+                border-bottom:none;
+                border-left:none;
+                padding-left:5.4pt;
+                background:#DBE5F1;
+            }
+            td.pt-000039{
+                vertical-align:top;
+                width:46.3pt;
+                border-top:none;
+                border-right:none;
+                padding-right:5.4pt;
+                border-bottom:none;
+                border-left:none;
+                padding-left:5.4pt;
+                background:#DBE5F1;
+            }
+            tr.pt-000040{
+                height:0.325in;
+            }
+            td.pt-000041{
+                vertical-align:middle;
+                width:339.7pt;
+                border-top:none;
+                border-right:none;
+                padding-right:5.4pt;
+                border-bottom:none;
+                border-left:none;
+                padding-left:5.4pt;
+                background:#EDF2F8;
+            }
+            tr.pt-000042{
+                height:0.3125in;
+            }
+            p.pt-CaptionMy{
+                margin-bottom:6pt;
+                font-family:'Cambria', 'serif';
+                font-size:8pt;
+                margin-top:0pt;
+                margin-left:0pt;
+                margin-right:0pt;
+            }
+            span.pt-DefaultParagraphFont-000043{
+                color:#000000;
+                font-family:'Cambria', 'serif';
+                font-size:8pt;
+                font-style:italic;
+                font-weight:bold;
+                margin:0in;
+                padding:0in;
+            }
+            span.pt-DefaultParagraphFont-000044{
+                color:#000000;
+                font-family:'Cambria', 'serif';
+                font-size:8pt;
+                font-style:italic;
+                font-weight:normal;
+                margin:0in;
+                padding:0in;
+            }
+            span.pt-DefaultParagraphFont-000045{
+                color:#C0504D;
+                font-family:'Cambria', 'serif';
+                font-size:8pt;
+                font-style:italic;
+                font-weight:normal;
+                margin:0in;
+                padding:0in;
+            }
+            span.pt-DefaultParagraphFont-000046{
+                color:#C0504D;
+                font-family:'Cambria', 'serif';
+                font-size:8pt;
+                font-style:italic;
+                font-weight:bold;
+                margin:0in;
+                padding:0in;
+            }
+            span.pt-DefaultParagraphFont-000047{
+                font-family:Calibri;
+                font-size:10pt;
+                font-weight:bold;
+                margin:0in;
+                padding:0in;
+            }
+            p.pt-000048{
+                line-height:115.0%;
+                margin-bottom:0pt;
+                margin-left:0.50in;
+                text-indent:-0.25in;
+                font-family:Calibri;
+                font-size:10pt;
+                margin-top:0pt;
+                margin-right:0pt;
+            }
+            span.pt-000049{
+                font-family:Symbol;
+                font-size:10pt;
+                font-weight:normal;
+                margin:0in;
+                padding:0in;
+            }
+            span.pt-000050{
+                margin:0 0 0 0.19in;
+                padding:0 0 0 0;
+            }
+            span.pt-000051{
+                margin:0 0 0 0.18in;
+                padding:0 0 0 0;
+            }
+            p.pt-000052{
+                line-height:115.0%;
+                margin-bottom:12pt;
+                margin-left:0.50in;
+                text-indent:-0.25in;
+                font-family:Calibri;
+                font-size:10pt;
+                margin-top:0pt;
+                margin-right:0pt;
+            }
+            p.pt-Normal-000053{
+                margin-bottom:0pt;
+                font-family:'Cambria', 'serif';
+                font-size:14pt;
+                margin-top:0pt;
+                margin-left:0pt;
+                margin-right:0pt;
+            }
+            span.pt-DefaultParagraphFont-000054{
+                font-size:10pt;
+                font-weight:normal;
+                margin:0in;
+                padding:0in;
+            }
+            span.pt-000055{
+                font-size:14pt;
+                font-weight:normal;
+                margin:0in;
+                padding:0in;
+            }
+            span.pt-000056{
+                font-family:Calibri;
+                font-size:10pt;
+                font-weight:normal;
+                margin:0in;
+                padding:0in;
+            }
+            span.pt-000057{
+                margin:0 0 0 0.13in;
+                padding:0 0 0 0;
+            }
+            span.pt-Hyperlink-000058{
+                color:#0000FF;
+                font-family:Calibri;
+                font-size:10pt;
+                text-decoration:underline;
+                font-weight:normal;
+                margin:0in;
+                padding:0in;
+            }
+            span.pt-000059{
+                margin:0 0 0 0.25in;
+                padding:0 0 0 0;
+            }
+            span.pt-DefaultParagraphFont-000060{
+                color:#FF6600;
+                font-family:'Cambria', 'serif';
+                font-size:10pt;
+                font-weight:bold;
+                margin:0in;
+                padding:0in;
+            }
+            tr.pt-000061{
+                height:0.3736111111111111111111111111in;
+            }
+            td.pt-000062{
+                vertical-align:middle;
+                width:54.9pt;
+                border-top:none;
+                border-right:none;
+                padding-right:5.4pt;
+                border-bottom:none;
+                border-left:none;
+                padding-left:5.4pt;
+                background:#FFFFFF;
+            }
+            p.pt-Normal-000063{
+                line-height:115.0%;
+                margin-bottom:0pt;
+                font-family:Calibri;
+                font-size:9pt;
+                margin-top:0pt;
+                margin-left:0pt;
+                margin-right:0pt;
+            }
+            span.pt-DefaultParagraphFont-000064{
+                color:#1F497D;
+                font-family:Calibri;
+                font-size:9pt;
+                font-weight:normal;
+                margin:0in;
+                padding:0in;
+            }
+            td.pt-000065{
+                vertical-align:middle;
+                width:144pt;
+                border-top:solid #5C83B4 1.0pt;
+                padding-top:0in;
+                border-right:solid #5C83B4 1.0pt;
+                padding-right:5.4pt;
+                border-bottom:solid #5C83B4 1.0pt;
+                padding-bottom:0in;
+                border-left:solid #5C83B4 1.0pt;
+                padding-left:5.4pt;
+                background:#EFF2F7;
+            }
+            p.pt-Normal-000066{
+                line-height:115.0%;
+                margin-bottom:0pt;
+                text-align:center;
+                font-family:Calibri;
+                font-size:9pt;
+                margin-top:0pt;
+                margin-left:0pt;
+                margin-right:0pt;
+            }
+            td.pt-000067{
+                vertical-align:middle;
+                width:144pt;
+                border-top:solid #5C83B4 1.0pt;
+                padding-top:0in;
+                border-right:solid #5C83B4 1.0pt;
+                padding-right:5.4pt;
+                border-bottom:solid #5C83B4 1.0pt;
+                padding-bottom:0in;
+                border-left-style:none;
+                padding-left:5.4pt;
+                background:#EFF2F7;
+            }
+            tr.pt-000068{
+                height:1.09375in;
+            }
+            td.pt-000069{
+                vertical-align:middle;
+                width:54.9pt;
+                border-top:solid #5C83B4 1.0pt;
+                padding-top:0in;
+                border-right-style:none;
+                padding-right:5.4pt;
+                border-bottom-style:none;
+                padding-bottom:0in;
+                border-left-style:none;
+                padding-left:5.4pt;
+                background:#FFFFFF;
+            }
+            p.pt-Normal-000070{
+                line-height:115.0%;
+                margin-bottom:12pt;
+                font-family:Calibri;
+                font-size:9pt;
+                margin-top:0pt;
+                margin-left:0pt;
+                margin-right:0pt;
+            }
+            td.pt-000071{
+                vertical-align:top;
+                width:144pt;
+                border-top-style:none;
+                padding-top:0in;
+                border-right:solid #5C83B4 1.0pt;
+                padding-right:5.4pt;
+                border-bottom:solid #5C83B4 1.0pt;
+                padding-bottom:0in;
+                border-left:solid #5C83B4 1.0pt;
+                padding-left:5.4pt;
+                background:#ADC1D9;
+            }
+            p.pt-000072{
+                line-height:115.0%;
+                margin-bottom:0pt;
+                margin-left:0.11in;
+                text-indent:-0.13in;
+                font-family:Symbol;
+                font-size:9pt;
+                margin-top:0pt;
+                margin-right:0pt;
+            }
+            span.pt-000073{
+                color:#1F497D;
+                font-family:Symbol;
+                font-size:9pt;
+                font-weight:normal;
+                margin:0in;
+                padding:0in;
+            }
+            span.pt-000074{
+                color:#1F497D;
+                font-size:9pt;
+                font-weight:normal;
+                margin:0in;
+                padding:0in;
+            }
+            span.pt-000075{
+                margin:0 0 0 0.07in;
+                padding:0 0 0 0;
+            }
+            td.pt-000076{
+                vertical-align:top;
+                width:144pt;
+                border-top-style:none;
+                padding-top:0in;
+                border-right:solid #5C83B4 1.0pt;
+                padding-right:5.4pt;
+                border-bottom:solid #5C83B4 1.0pt;
+                padding-bottom:0in;
+                border-left-style:none;
+                padding-left:5.4pt;
+                background:#ADC1D9;
+            }
+            tr.pt-000077{
+                height:1.2125in;
+            }
+            span.pt-DefaultParagraphFont-000078{
+                font-family:Calibri;
+                font-size:10pt;
+                font-style:italic;
+                font-weight:normal;
+                margin:0in;
+                padding:0in;
+            }
+            h3.pt-Heading3-000079{
+                margin-top:6pt;
+                margin-bottom:6pt;
+                font-family:'Cambria', 'serif';
+                font-size:10pt;
+                margin-left:0pt;
+                margin-right:0pt;
+            }
+            span.pt-DefaultParagraphFont-000080{
+                color:#auto;
+                font-family:'Cambria', 'serif';
+                font-size:10pt;
+                font-weight:bold;
+                margin:0in;
+                padding:0in;
+            }
+            span.pt-DefaultParagraphFont-000081{
+                font-family:'Times New Roman', 'serif';
+                font-size:12pt;
+                font-weight:normal;
+                margin:0in;
+                padding:0in;
+            }
+            p.pt-Normal-000082{
+                margin-bottom:0pt;
+                font-family:'Times New Roman', 'serif';
+                font-size:12pt;
+                margin-top:0pt;
+                margin-left:0pt;
+                margin-right:0pt;
+            }
+            span.pt-DefaultParagraphFont-000083{
+                font-size:12pt;
+                font-weight:normal;
+                margin:0in;
+                padding:0in;
+            }
+            p.pt-Normal-000084{
+                margin-bottom:0pt;
+                font-family:Calibri;
+                font-size:10pt;
+                margin-top:0pt;
+                margin-left:0pt;
+                margin-right:0pt;
+            }
+            p.pt-Caption{
+                margin-top:6pt;
+                margin-bottom:6pt;
+                font-family:'Cambria', 'serif';
+                font-size:8pt;
+                margin-left:0pt;
+                margin-right:0pt;
+            }
+            span.pt-MainBodyChar{
+                color:#FF6600;
+                font-family:'Cambria', 'serif';
+                font-size:10pt;
+                font-weight:bold;
+                margin:0in;
+                padding:0in;
+            }
+            tr.pt-000085{
+                height:0.3131944444444444444444444444in;
+            }
+            td.pt-000086{
+                vertical-align:middle;
+                width:248.4pt;
+                border-top:solid #7BA0CD 1.0pt;
+                padding-top:0in;
+                border-right-style:none;
+                padding-right:5.4pt;
+                border-bottom:solid #7BA0CD 1.0pt;
+                padding-bottom:0in;
+                border-left:solid #7BA0CD 1.0pt;
+                padding-left:5.4pt;
+                background:#4F81BD;
+            }
+            p.pt-iTS-BodyText{
+                margin-top:0pt;
+                margin-bottom:0pt;
+                font-family:Franklin Gothic Book;
+                font-size:8pt;
+                margin-left:0pt;
+                margin-right:0pt;
+            }
+            span.pt-DefaultParagraphFont-000087{
+                color:#FFFFFF;
+                font-family:Calibri;
+                font-size:8pt;
+                font-weight:bold;
+                margin:0in;
+                padding:0in;
+            }
+            td.pt-000088{
+                vertical-align:middle;
+                width:72pt;
+                border-top:solid #7BA0CD 1.0pt;
+                padding-top:0in;
+                border-right-style:none;
+                padding-right:5.4pt;
+                border-bottom:solid #7BA0CD 1.0pt;
+                padding-bottom:0in;
+                border-left-style:none;
+                padding-left:5.4pt;
+                background:#4F81BD;
+            }
+            p.pt-iTS-BodyText-000089{
+                margin-top:0pt;
+                margin-bottom:0pt;
+                text-align:center;
+                font-family:Franklin Gothic Book;
+                font-size:8pt;
+                margin-left:0pt;
+                margin-right:0pt;
+            }
+            td.pt-000090{
+                vertical-align:middle;
+                width:72pt;
+                border-top:solid #7BA0CD 1.0pt;
+                padding-top:0in;
+                border-right:solid #7BA0CD 1.0pt;
+                padding-right:5.4pt;
+                border-bottom:solid #7BA0CD 1.0pt;
+                padding-bottom:0in;
+                border-left-style:none;
+                padding-left:5.4pt;
+                background:#4F81BD;
+            }
+            p.pt-iTS-BodyText-000091{
+                margin-top:0pt;
+                margin-bottom:0pt;
+                text-align:center;
+                font-family:Calibri;
+                font-size:8pt;
+                margin-left:0pt;
+                margin-right:0pt;
+            }
+            td.pt-000092{
+                vertical-align:middle;
+                width:248.4pt;
+                border-top:solid #7BA0CD 1.0pt;
+                padding-top:0in;
+                border-right-style:none;
+                padding-right:5.4pt;
+                border-bottom:solid #7BA0CD 1.0pt;
+                padding-bottom:0in;
+                border-left:solid #7BA0CD 1.0pt;
+                padding-left:5.4pt;
+                background:#D3DFEE;
+            }
+            span.pt-DefaultParagraphFont-000093{
+                font-family:Calibri;
+                font-size:8pt;
+                font-weight:normal;
+                margin:0in;
+                padding:0in;
+            }
+            td.pt-000094{
+                vertical-align:middle;
+                width:72pt;
+                border-top:solid #7BA0CD 1.0pt;
+                padding-top:0in;
+                border-right-style:none;
+                padding-right:5.4pt;
+                border-bottom:solid #7BA0CD 1.0pt;
+                padding-bottom:0in;
+                border-left-style:none;
+                padding-left:5.4pt;
+                background:#D3DFEE;
+            }
+            span.pt-DefaultParagraphFont-000095{
+                color:#C0504D;
+                font-size:12pt;
+                font-weight:normal;
+                margin:0in;
+                padding:0in;
+            }
+            p.pt-iTS-BodyText-000096{
+                margin-bottom:0pt;
+                text-align:center;
+                font-family:Calibri;
+                font-size:12pt;
+                margin-top:0pt;
+                margin-left:0pt;
+                margin-right:0pt;
+            }
+            td.pt-000097{
+                vertical-align:middle;
+                width:72pt;
+                border-top:solid #7BA0CD 1.0pt;
+                padding-top:0in;
+                border-right:solid #7BA0CD 1.0pt;
+                padding-right:5.4pt;
+                border-bottom:solid #7BA0CD 1.0pt;
+                padding-bottom:0in;
+                border-left-style:none;
+                padding-left:5.4pt;
+                background:#D3DFEE;
+            }
+            tr.pt-000098{
+                height:0.3798611111111111111111111111in;
+            }
+            td.pt-000099{
+                vertical-align:middle;
+                width:248.4pt;
+                border-top:solid #7BA0CD 1.0pt;
+                padding-top:0in;
+                border-right:none;
+                padding-right:5.4pt;
+                border-bottom:solid #7BA0CD 1.0pt;
+                padding-bottom:0in;
+                border-left:solid #7BA0CD 1.0pt;
+                padding-left:5.4pt;
+            }
+            td.pt-000100{
+                vertical-align:middle;
+                width:72pt;
+                border-top:solid #7BA0CD 1.0pt;
+                padding-top:0in;
+                border-right:none;
+                padding-right:5.4pt;
+                border-bottom:solid #7BA0CD 1.0pt;
+                padding-bottom:0in;
+                border-left:none;
+                padding-left:5.4pt;
+            }
+            td.pt-000101{
+                vertical-align:middle;
+                width:72pt;
+                border-top:solid #7BA0CD 1.0pt;
+                padding-top:0in;
+                border-right:solid #7BA0CD 1.0pt;
+                padding-right:5.4pt;
+                border-bottom:solid #7BA0CD 1.0pt;
+                padding-bottom:0in;
+                border-left:none;
+                padding-left:5.4pt;
+            }
+            span.pt-000102{
+                font-size:8pt;
+                font-weight:normal;
+                margin:0in;
+                padding:0in;
+            }
+            p.pt-Bodytext-000103{
+                line-height:150.0%;
+                margin-bottom:6pt;
+                font-family:'Arial', 'sans-serif';
+                font-size:10pt;
+                margin-top:0pt;
+                margin-left:0pt;
+                margin-right:0pt;
+            }
+            p.pt-Caption-000104{
+                margin-bottom:6pt;
+                font-family:'Cambria', 'serif';
+                font-size:8pt;
+                margin-top:0pt;
+                margin-left:0pt;
+                margin-right:0pt;
+            }
+            span.pt-DefaultParagraphFont-000105{
+                color:#000000;
+                font-size:10pt;
+                font-weight:bold;
+                margin:0in;
+                padding:0in;
+            }
+            span.pt-DefaultParagraphFont-000106{
+                color:#000000;
+                font-size:8pt;
+                font-style:italic;
+                font-weight:normal;
+                margin:0in;
+                padding:0in;
+            }
+            span.pt-000107{
+                color:#000000;
+                font-size:8pt;
+                font-style:italic;
+                font-weight:bold;
+                margin:0in;
+                padding:0in;
+            }
+            p.pt-Normal-000108{
+                margin-bottom:0pt;
+                font-family:'Cambria', 'serif';
+                font-size:10pt;
+                margin-top:0pt;
+                margin-left:0pt;
+                margin-right:0pt;
+            }
+            p.pt-Normal-000109{
+                line-height:115.0%;
+                margin-bottom:0pt;
+                font-family:Calibri;
+                font-size:10pt;
+                margin-top:0pt;
+                margin-left:0pt;
+                margin-right:0pt;
+            }
+            p.pt-Normal-000110{
+                line-height:115.0%;
+                margin-bottom:0pt;
+                font-family:Segoe;
+                font-size:6.5pt;
+                margin-top:0pt;
+                margin-left:0pt;
+                margin-right:0pt;
+            }
+            span.pt-StyleArial7pt{
+                color:#FF0000;
+                font-family:Segoe;
+                font-size:6.5pt;
+                font-weight:normal;
+                margin:0in;
+                padding:0in;
+            }
+            span.pt-StyleArial7pt-000111{
+                font-family:Segoe;
+                font-size:6.5pt;
+                font-weight:normal;
+                margin:0in;
+                padding:0in;
+            }
+            p.pt-Normal-000112{
+                line-height:115.0%;
+                margin-bottom:12pt;
+                font-family:Segoe;
+                font-size:6.5pt;
+                margin-top:0pt;
+                margin-left:0pt;
+                margin-right:0pt;
+            }
+            span.pt-000113{
+                font-size:6.5pt;
+                font-weight:normal;
+                margin:0in;
+                padding:0in;
+            }</style>
+    </head>
+    <body>
+        <table border="1" cellspacing="0" cellpadding="0" class="pt-000024">
+                <tr class="pt-000025">
+                    <td colspan="3" class="pt-000026"><h7 class="pt-Heading7"><span
+                                class="pt-DefaultParagraphFont-000027"><b>Word 2007 Supported File
+                                    Formats</b></span></h7></td>
+                    <td class="pt-000028"><h7 class="pt-Heading7-000029"><span class="pt-000022"
+                                >&nbsp;</span></h7></td>
+                </tr>
+                <tr class="pt-000030">
+                    <td class="pt-000031"><p class="pt-Normal-000032"><span
+                                class="pt-DefaultParagraphFont-000033">.docx</span></p></td>
+                    <td class="pt-000034"><p class="pt-Normal-000032"><span
+                                class="pt-DefaultParagraphFont-000033">Word Document
+                            (.docx)</span></p></td>
+                    <td class="pt-000035"><p class="pt-Normal-000032"><span
+                                class="pt-DefaultParagraphFont-000033">New </span></p></td>
+                    <td class="pt-000036"><p class="pt-Normal-000032"><span
+                                class="pt-DefaultParagraphFont-000033">Compatible with 2000, XP,
+                                2003</span></p></td>
+                </tr>
+                <tr class="pt-000030">
+                    <td class="pt-000037"><p class="pt-Normal-000032"><span
+                                class="pt-DefaultParagraphFont-000020">.docm</span></p></td>
+                    <td class="pt-000038"><p class="pt-Normal-000032"><span
+                                class="pt-DefaultParagraphFont-000020">Word Macro-enabled Document
+                                (.docm)</span></p></td>
+                    <td class="pt-000039"><p class="pt-Normal-000032"><span
+                                class="pt-DefaultParagraphFont-000020">New </span></p></td>
+                    <td class="pt-000028"><p class="pt-Normal-000032"><span
+                                class="pt-DefaultParagraphFont-000020">Compatible with 2000, XP,
+                                2003</span></p></td>
+                </tr>
+                <tr class="pt-000030">
+                    <td class="pt-000031"><p class="pt-Normal-000032"><span
+                                class="pt-DefaultParagraphFont-000020">.dotx</span></p></td>
+                    <td class="pt-000034"><p class="pt-Normal-000032"><span
+                                class="pt-DefaultParagraphFont-000020">Word Template
+                            (.dotx)</span></p></td>
+                    <td class="pt-000035"><p class="pt-Normal-000032"><span
+                                class="pt-DefaultParagraphFont-000020">New</span></p></td>
+                    <td class="pt-000036"><p class="pt-Normal-000032"><span class="pt-000022"
+                                >&nbsp;</span></p></td>
+                </tr>
+                <tr class="pt-000030">
+                    <td class="pt-000037"><p class="pt-Normal-000032"><span
+                                class="pt-DefaultParagraphFont-000020">.dotm</span></p></td>
+                    <td class="pt-000038"><p class="pt-Normal-000032"><span
+                                class="pt-DefaultParagraphFont-000020">Word Macro-enabled Document
+                                Template (.dotm)</span></p></td>
+                    <td class="pt-000039"><p class="pt-Normal-000032"><span
+                                class="pt-DefaultParagraphFont-000020">New</span></p></td>
+                    <td class="pt-000028"><p class="pt-Normal-000032"><span class="pt-000022"
+                                >&nbsp;</span></p></td>
+                </tr>
+                <tr class="pt-000040">
+                    <td colspan="3" class="pt-000041"><p class="pt-Normal-000032"><span
+                                class="pt-DefaultParagraphFont-000027"><b>Excel 2007 Supported File
+                                    Formats</b></span></p></td>
+                    <td class="pt-000036"><p class="pt-Normal-000032"><span class="pt-000022"
+                                >&nbsp;</span></p></td>
+                </tr>
+                <tr class="pt-000030">
+                    <td class="pt-000037"><p class="pt-Normal-000032"><span
+                                class="pt-DefaultParagraphFont-000033">.xlsx</span></p></td>
+                    <td class="pt-000038"><p class="pt-Normal-000032"><span
+                                class="pt-DefaultParagraphFont-000033">Excel Workbook
+                            (.xlsx)</span></p></td>
+                    <td class="pt-000039"><p class="pt-Normal-000032"><span
+                                class="pt-DefaultParagraphFont-000033">New </span></p></td>
+                    <td class="pt-000028"><p class="pt-Normal-000032"><span
+                                class="pt-DefaultParagraphFont-000033">Compatible with 2000, XP,
+                                2003</span></p></td>
+                </tr>
+                <tr class="pt-000030">
+                    <td class="pt-000031"><p class="pt-Normal-000032"><span
+                                class="pt-DefaultParagraphFont-000020">.xlsm</span></p></td>
+                    <td class="pt-000034"><p class="pt-Normal-000032"><span
+                                class="pt-DefaultParagraphFont-000020">Excel Macro-enabled Workbook
+                                (.xlsm)</span></p></td>
+                    <td class="pt-000035"><p class="pt-Normal-000032"><span
+                                class="pt-DefaultParagraphFont-000020">New </span></p></td>
+                    <td class="pt-000036"><p class="pt-Normal-000032"><span
+                                class="pt-DefaultParagraphFont-000020">Compatible with 2000, XP,
+                                2003</span></p></td>
+                </tr>
+                <tr class="pt-000030">
+                    <td class="pt-000037"><p class="pt-Normal-000032"><span
+                                class="pt-DefaultParagraphFont-000020">.xltx</span></p></td>
+                    <td class="pt-000038"><p class="pt-Normal-000032"><span
+                                class="pt-DefaultParagraphFont-000020">Excel Template
+                            (.xltx)</span></p></td>
+                    <td class="pt-000039"><p class="pt-Normal-000032"><span
+                                class="pt-DefaultParagraphFont-000020">New</span></p></td>
+                    <td class="pt-000028"><p class="pt-Normal-000032"><span
+                                class="pt-DefaultParagraphFont-000020">Compatible with 2000, XP,
+                                2003</span></p></td>
+                </tr>
+                <tr class="pt-000030">
+                    <td class="pt-000031"><p class="pt-Normal-000032"><span
+                                class="pt-DefaultParagraphFont-000020">.xltm</span></p></td>
+                    <td class="pt-000034"><p class="pt-Normal-000032"><span
+                                class="pt-DefaultParagraphFont-000020">Excel Macro-enabled Workbook
+                                Template (.xltm)</span></p></td>
+                    <td class="pt-000035"><p class="pt-Normal-000032"><span
+                                class="pt-DefaultParagraphFont-000020">New</span></p></td>
+                    <td class="pt-000036"><p class="pt-Normal-000032"><span
+                                class="pt-DefaultParagraphFont-000020">Compatible with 2000, XP,
+                                2003</span></p></td>
+                </tr>
+                <tr class="pt-000030">
+                    <td class="pt-000037"><p class="pt-Normal-000032"><span
+                                class="pt-DefaultParagraphFont-000020">.xlsb</span></p></td>
+                    <td class="pt-000038"><p class="pt-Normal-000032"><span
+                                class="pt-DefaultParagraphFont-000020">Excel Binary Workbook
+                                (.xlsb)</span></p></td>
+                    <td class="pt-000039"><p class="pt-Normal-000032"><span
+                                class="pt-DefaultParagraphFont-000020">New </span></p></td>
+                    <td class="pt-000028"><p class="pt-Normal-000032"><span
+                                class="pt-DefaultParagraphFont-000020">Compatible with 2000, XP,
+                                2003</span></p></td>
+                </tr>
+                <tr class="pt-000030">
+                    <td class="pt-000031"><p class="pt-Normal-000032"><span
+                                class="pt-DefaultParagraphFont-000020">.xlam</span></p></td>
+                    <td class="pt-000034"><p class="pt-Normal-000032"><span
+                                class="pt-DefaultParagraphFont-000020">Excel Add-in
+                            (.xlam)</span></p></td>
+                    <td class="pt-000035"><p class="pt-Normal-000032"><span
+                                class="pt-DefaultParagraphFont-000020">New </span></p></td>
+                    <td class="pt-000036"><p class="pt-Normal-000032"><span
+                                class="pt-DefaultParagraphFont-000020">Compatible with 2000, XP,
+                                2003</span></p></td>
+                </tr>
+                <tr class="pt-000042">
+                    <td colspan="3" class="pt-000026"><p class="pt-Normal-000032"><span
+                                class="pt-DefaultParagraphFont-000027"><b>PowerPoint 2007 Supported
+                                    File Formats</b></span></p></td>
+                    <td class="pt-000028"><p class="pt-Normal-000032"><span class="pt-000022"
+                                >&nbsp;</span></p></td>
+                </tr>
+                <tr class="pt-000030">
+                    <td class="pt-000031"><p class="pt-Normal-000032"><span
+                                class="pt-DefaultParagraphFont-000033">.pptx</span></p></td>
+                    <td class="pt-000034"><p class="pt-Normal-000032"><span
+                                class="pt-DefaultParagraphFont-000033">PowerPoint Presentation
+                                (.pptx)</span></p></td>
+                    <td class="pt-000035"><p class="pt-Normal-000032"><span
+                                class="pt-DefaultParagraphFont-000033">New </span></p></td>
+                    <td class="pt-000036"><p class="pt-Normal-000032"><span
+                                class="pt-DefaultParagraphFont-000033">Compatible with 2000, XP,
+                                2003</span></p></td>
+                </tr>
+                <tr class="pt-000030">
+                    <td class="pt-000037"><p class="pt-Normal-000032"><span
+                                class="pt-DefaultParagraphFont-000020">.pptm</span></p></td>
+                    <td class="pt-000038"><p class="pt-Normal-000032"><span
+                                class="pt-DefaultParagraphFont-000020">PowerPoint Macro-enabled
+                                Presentation (.pptm)</span></p></td>
+                    <td class="pt-000039"><p class="pt-Normal-000032"><span
+                                class="pt-DefaultParagraphFont-000020">New </span></p></td>
+                    <td class="pt-000028"><p class="pt-Normal-000032"><span
+                                class="pt-DefaultParagraphFont-000020">Compatible with 2000, XP,
+                                2003</span></p></td>
+                </tr>
+                <tr class="pt-000030">
+                    <td class="pt-000031"><p class="pt-Normal-000032"><span
+                                class="pt-DefaultParagraphFont-000020">.ppsx</span></p></td>
+                    <td class="pt-000034"><p class="pt-Normal-000032"><span
+                                class="pt-DefaultParagraphFont-000020">PowerPoint Slide Show
+                                (.ppsx)</span></p></td>
+                    <td class="pt-000035"><p class="pt-Normal-000032"><span
+                                class="pt-DefaultParagraphFont-000020">New</span></p></td>
+                    <td class="pt-000036"><p class="pt-Normal-000032"><span
+                                class="pt-DefaultParagraphFont-000020">Compatible with 2000, XP,
+                                2003</span></p></td>
+                </tr>
+                <tr class="pt-000030">
+                    <td class="pt-000037"><p class="pt-Normal-000032"><span
+                                class="pt-DefaultParagraphFont-000020">.ppsm</span></p></td>
+                    <td class="pt-000038"><p class="pt-Normal-000032"><span
+                                class="pt-DefaultParagraphFont-000020">PowerPoint Macro-enabled
+                                Slide Show (.ppsx)</span></p></td>
+                    <td class="pt-000039"><p class="pt-Normal-000032"><span
+                                class="pt-DefaultParagraphFont-000020">New</span></p></td>
+                    <td class="pt-000028"><p class="pt-Normal-000032"><span
+                                class="pt-DefaultParagraphFont-000020">Compatible with 2000, XP,
+                                2003</span></p></td>
+                </tr>
+                <tr class="pt-000030">
+                    <td class="pt-000031"><p class="pt-Normal-000032"><span
+                                class="pt-DefaultParagraphFont-000020">.potx</span></p></td>
+                    <td class="pt-000034"><p class="pt-Normal-000032"><span
+                                class="pt-DefaultParagraphFont-000020">PowerPoint Template
+                                (.potx)</span></p></td>
+                    <td class="pt-000035"><p class="pt-Normal-000032"><span
+                                class="pt-DefaultParagraphFont-000020">New</span></p></td>
+                    <td class="pt-000036"><p class="pt-Normal-000032"><span
+                                class="pt-DefaultParagraphFont-000020">Compatible with 2000, XP,
+                                2003</span></p></td>
+                </tr>
+                <tr class="pt-000030">
+                    <td class="pt-000037"><p class="pt-Normal-000032"><span
+                                class="pt-DefaultParagraphFont-000020">.potm</span></p></td>
+                    <td class="pt-000038"><p class="pt-Normal-000032"><span
+                                class="pt-DefaultParagraphFont-000020">PowerPoint Macro-enabled
+                                Presentation Template (.potm)</span></p></td>
+                    <td class="pt-000039"><p class="pt-Normal-000032"><span
+                                class="pt-DefaultParagraphFont-000020">New</span></p></td>
+                    <td class="pt-000028"><p class="pt-Normal-000032"><span
+                                class="pt-DefaultParagraphFont-000020">Compatible with 2000, XP,
+                                2003</span></p></td>
+                </tr>
+                <tr class="pt-000030">
+                    <td class="pt-000031"><p class="pt-Normal-000032"><span
+                                class="pt-DefaultParagraphFont-000020">.ppam</span></p></td>
+                    <td class="pt-000034"><p class="pt-Normal-000032"><span
+                                class="pt-DefaultParagraphFont-000020">PowerPoint Add-in
+                                (.ppam)</span></p></td>
+                    <td class="pt-000035"><p class="pt-Normal-000032"><span
+                                class="pt-DefaultParagraphFont-000020">New</span></p></td>
+                    <td class="pt-000036"><p class="pt-Normal-000032"><span class="pt-000022"
+                                >&nbsp;</span></p></td>
+                </tr>
+            </table>
+     </body>
+</html>
