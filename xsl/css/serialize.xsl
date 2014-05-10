@@ -54,17 +54,6 @@
         <xsl:param name="elts"   as="element()*"/>
         <xsl:param name="styles" as="element(css)*"/>
         
-        <xsl:if test="system-property('xsl:product-name') = 'Saxon-CE'">
-            <xsl:sequence 
-                select="ixsl:call(
-                ixsl:window()
-                , 'updateStatus'
-                , 'Styles'
-                , xs:double((count($styles) div $total) * 100)
-            )"
-            use-when="system-property('xsl:product-name') = 'Saxon-CE'"/>
-        </xsl:if>
-
         <xsl:choose>
             <xsl:when test="empty($elts)">
                 <xsl:sequence select="$styles"/>
